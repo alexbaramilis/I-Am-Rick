@@ -10,8 +10,6 @@
 
 ![I Am Rick (Episode 2)](screenshots/episode_2.png)
 
-https://miro.medium.com/max/7964/1*OfhwTtKaMD_NmVm76yQv7w.png
-
 - **Bonus**: Setting up Flutter on macOS Catalina. [[Medium story]](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
 ![Setting up Flutter on macOS Catalina](screenshots/setting_up_flutter.jpg)
