@@ -14,4 +14,4 @@ https://miro.medium.com/max/7964/1*OfhwTtKaMD_NmVm76yQv7w.png
 
 - **Bonus**: Setting up Flutter on macOS Catalina. [[Medium story]](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
-![Setting up Flutter on macOS Catalina](https://miro.medium.com/max/10000/1*A1TtHIM4tL0ejuQOjVSZUw.png)
+![Setting up Flutter on macOS Catalina](https://miro.medium.com/max/7964/1*ajt-_4C9xqKKXMau7mbdNg.png)
