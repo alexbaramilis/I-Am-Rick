@@ -14,6 +14,10 @@
 
 ![I Am Rick (Episode 3)](screenshots/episode_3.png)
 
+- **Episode 4**: Rick's Christmas Jams. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-4-ricks-christmas-jams-dbe787a5f2f4) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/blob/master/episode_4.dart)
+
+![I Am Rick (Episode 4)](screenshots/episode_4.png)
+
 - **Bonus**: Setting up Flutter on macOS Catalina. [[Medium story]](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
 ![Setting up Flutter on macOS Catalina](screenshots/setting_up_flutter.jpg)
