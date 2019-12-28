@@ -14,7 +14,7 @@
 
 ![I Am Rick (Episode 3)](screenshots/episode_3.png)
 
-- **Episode 4**: Rick's Christmas Jams. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-4-ricks-christmas-jams-dbe787a5f2f4) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/blob/master/episode_4.dart)
+- **Episode 4**: Rick's Christmas Jams. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-4-ricks-christmas-jams-dbe787a5f2f4?source=friends_link&sk=f15f3816a9bd21bcd05bfb7a95db1139) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/blob/master/episode_4.dart)
 
 ![I Am Rick (Episode 4)](screenshots/episode_4.png)
 
