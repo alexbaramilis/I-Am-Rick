@@ -14,5 +14,7 @@ All tracks in this folder are licensed under the following license:
 - Away In The Manger
 
 Exzel Music Publishing (freemusicpublicdomain.com)
+
 Licensed under Creative Commons: By Attribution 3.0
+
 http://creativecommons.org/licenses/by/3.0/
