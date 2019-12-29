@@ -2,11 +2,11 @@
 
 ## Learning Flutter with Rick Grimes.
 
-- **Episode 1**: A TWD spinoff of the ‘I Am Rich’ app, made with Flutter. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-417d8b35ac0) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/blob/master/episode_1.dart)
+- **Episode 1**: A 'The Walking Dead' spinoff of the 'I Am Rich' app, made with Flutter. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-417d8b35ac0) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/blob/master/episode_1.dart)
 
 ![I Am Rick](screenshots/episode_1.png)
   
-- **Episode 2**: Rick's business card. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-2-74b6dd0e8642) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/blob/master/episode_2.dart)
+- **Episode 2**: Rick's Business Card. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-2-74b6dd0e8642) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/blob/master/episode_2.dart)
 
 ![I Am Rick (Episode 2)](screenshots/episode_2.png)
 
