@@ -5,7 +5,7 @@
 - **Episode 1**: A 'The Walking Dead' spinoff of the 'I Am Rich' app, made with Flutter. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-417d8b35ac0) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/tree/master/Episode%201)
 
 ![I Am Rick](screenshots/episode_1.png)
-  
+
 - **Episode 2**: Rick's Business Card. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-2-74b6dd0e8642) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/tree/master/Episode%202)
 
 ![I Am Rick (Episode 2)](screenshots/episode_2.png)
@@ -21,6 +21,10 @@
 - **Episode 5**: Which TWD Character Are You? [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-5-which-twd-character-are-you-8e36a4964662) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/tree/master/Episode%205)
 
 ![I Am Rick (Episode 5)](screenshots/episode_5.png)
+
+- **Episode 6**: Rick’s Protein Intake Calculator. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-6-ricks-protein-intake-calculator-30c3b1305982) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/tree/master/Episode%206)
+
+![I Am Rick (Episode 6)](screenshots/episode_6.png)
 
 - **Bonus**: Setting up Flutter on macOS Catalina. [[Medium story]](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
