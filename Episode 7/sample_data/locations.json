@@ -1,0 +1,7636 @@
+{
+  "locations": [
+    {
+      "coordinates": {
+        "latitude": "15",
+        "longitude": "101"
+      },
+      "country": "Thailand",
+      "country_code": "TH",
+      "id": 0,
+      "last_updated": "2020-03-21T14:48:26.710214Z",
+      "latest": {
+        "confirmed": 322,
+        "deaths": 1,
+        "recovered": 42
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "36",
+        "longitude": "138"
+      },
+      "country": "Japan",
+      "country_code": "JP",
+      "id": 1,
+      "last_updated": "2020-03-21T14:48:26.718303Z",
+      "latest": {
+        "confirmed": 963,
+        "deaths": 33,
+        "recovered": 191
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "1.2833",
+        "longitude": "103.8333"
+      },
+      "country": "Singapore",
+      "country_code": "SG",
+      "id": 2,
+      "last_updated": "2020-03-21T14:48:26.723409Z",
+      "latest": {
+        "confirmed": 385,
+        "deaths": 0,
+        "recovered": 124
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "28.1667",
+        "longitude": "84.25"
+      },
+      "country": "Nepal",
+      "country_code": "NP",
+      "id": 3,
+      "last_updated": "2020-03-21T14:48:26.731192Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "2.5",
+        "longitude": "112.5"
+      },
+      "country": "Malaysia",
+      "country_code": "MY",
+      "id": 4,
+      "last_updated": "2020-03-21T14:48:26.738941Z",
+      "latest": {
+        "confirmed": 1030,
+        "deaths": 3,
+        "recovered": 87
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "49.2827",
+        "longitude": "-123.1207"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 5,
+      "last_updated": "2020-03-21T14:48:26.746707Z",
+      "latest": {
+        "confirmed": 271,
+        "deaths": 8,
+        "recovered": 4
+      },
+      "province": "British Columbia"
+    },
+    {
+      "coordinates": {
+        "latitude": "-33.8688",
+        "longitude": "151.2093"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 6,
+      "last_updated": "2020-03-21T14:48:26.754496Z",
+      "latest": {
+        "confirmed": 353,
+        "deaths": 6,
+        "recovered": 4
+      },
+      "province": "New South Wales"
+    },
+    {
+      "coordinates": {
+        "latitude": "-37.8136",
+        "longitude": "144.9631"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 7,
+      "last_updated": "2020-03-21T14:48:26.762297Z",
+      "latest": {
+        "confirmed": 121,
+        "deaths": 0,
+        "recovered": 8
+      },
+      "province": "Victoria"
+    },
+    {
+      "coordinates": {
+        "latitude": "-28.0167",
+        "longitude": "153.4"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 8,
+      "last_updated": "2020-03-21T14:48:26.770037Z",
+      "latest": {
+        "confirmed": 184,
+        "deaths": 0,
+        "recovered": 8
+      },
+      "province": "Queensland"
+    },
+    {
+      "coordinates": {
+        "latitude": "11.55",
+        "longitude": "104.9167"
+      },
+      "country": "Cambodia",
+      "country_code": "KH",
+      "id": 9,
+      "last_updated": "2020-03-21T14:48:26.777902Z",
+      "latest": {
+        "confirmed": 51,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "7",
+        "longitude": "81"
+      },
+      "country": "Sri Lanka",
+      "country_code": "LK",
+      "id": 10,
+      "last_updated": "2020-03-21T14:48:26.800843Z",
+      "latest": {
+        "confirmed": 73,
+        "deaths": 0,
+        "recovered": 3
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "51",
+        "longitude": "9"
+      },
+      "country": "Germany",
+      "country_code": "DE",
+      "id": 11,
+      "last_updated": "2020-03-21T14:48:26.810624Z",
+      "latest": {
+        "confirmed": 19848,
+        "deaths": 67,
+        "recovered": 180
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "64",
+        "longitude": "26"
+      },
+      "country": "Finland",
+      "country_code": "FI",
+      "id": 12,
+      "last_updated": "2020-03-21T14:48:26.826080Z",
+      "latest": {
+        "confirmed": 450,
+        "deaths": 0,
+        "recovered": 10
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "24",
+        "longitude": "54"
+      },
+      "country": "United Arab Emirates",
+      "country_code": "AE",
+      "id": 13,
+      "last_updated": "2020-03-21T14:48:26.833446Z",
+      "latest": {
+        "confirmed": 140,
+        "deaths": 2,
+        "recovered": 31
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "13",
+        "longitude": "122"
+      },
+      "country": "Philippines",
+      "country_code": "PH",
+      "id": 14,
+      "last_updated": "2020-03-21T14:48:26.840628Z",
+      "latest": {
+        "confirmed": 230,
+        "deaths": 18,
+        "recovered": 8
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "21",
+        "longitude": "78"
+      },
+      "country": "India",
+      "country_code": "IN",
+      "id": 15,
+      "last_updated": "2020-03-21T14:48:26.846369Z",
+      "latest": {
+        "confirmed": 244,
+        "deaths": 5,
+        "recovered": 20
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "43",
+        "longitude": "12"
+      },
+      "country": "Italy",
+      "country_code": "IT",
+      "id": 16,
+      "last_updated": "2020-03-21T14:48:26.853513Z",
+      "latest": {
+        "confirmed": 47021,
+        "deaths": 4032,
+        "recovered": 4440
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "63",
+        "longitude": "16"
+      },
+      "country": "Sweden",
+      "country_code": "SE",
+      "id": 17,
+      "last_updated": "2020-03-21T14:48:26.861428Z",
+      "latest": {
+        "confirmed": 1639,
+        "deaths": 16,
+        "recovered": 16
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "40",
+        "longitude": "-4"
+      },
+      "country": "Spain",
+      "country_code": "ES",
+      "id": 18,
+      "last_updated": "2020-03-21T14:48:26.867500Z",
+      "latest": {
+        "confirmed": 20410,
+        "deaths": 1043,
+        "recovered": 1588
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-34.9285",
+        "longitude": "138.6007"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 19,
+      "last_updated": "2020-03-21T14:48:26.876081Z",
+      "latest": {
+        "confirmed": 50,
+        "deaths": 0,
+        "recovered": 3
+      },
+      "province": "South Australia"
+    },
+    {
+      "coordinates": {
+        "latitude": "50.8333",
+        "longitude": "4"
+      },
+      "country": "Belgium",
+      "country_code": "BE",
+      "id": 20,
+      "last_updated": "2020-03-21T14:48:26.882996Z",
+      "latest": {
+        "confirmed": 2257,
+        "deaths": 37,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "26",
+        "longitude": "30"
+      },
+      "country": "Egypt",
+      "country_code": "EG",
+      "id": 21,
+      "last_updated": "2020-03-21T14:48:26.889285Z",
+      "latest": {
+        "confirmed": 285,
+        "deaths": 8,
+        "recovered": 39
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "35.4437",
+        "longitude": "139.638"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 22,
+      "last_updated": "2020-03-21T14:48:26.895330Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "From Diamond Princess"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.8547",
+        "longitude": "35.8623"
+      },
+      "country": "Lebanon",
+      "country_code": "LB",
+      "id": 23,
+      "last_updated": "2020-03-21T14:48:26.903275Z",
+      "latest": {
+        "confirmed": 163,
+        "deaths": 4,
+        "recovered": 4
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "33",
+        "longitude": "44"
+      },
+      "country": "Iraq",
+      "country_code": "IQ",
+      "id": 24,
+      "last_updated": "2020-03-21T14:48:26.910051Z",
+      "latest": {
+        "confirmed": 208,
+        "deaths": 17,
+        "recovered": 49
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "21",
+        "longitude": "57"
+      },
+      "country": "Oman",
+      "country_code": "OM",
+      "id": 25,
+      "last_updated": "2020-03-21T14:48:26.916737Z",
+      "latest": {
+        "confirmed": 48,
+        "deaths": 0,
+        "recovered": 12
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "33",
+        "longitude": "65"
+      },
+      "country": "Afghanistan",
+      "country_code": "AF",
+      "id": 26,
+      "last_updated": "2020-03-21T14:48:26.922866Z",
+      "latest": {
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "26.0275",
+        "longitude": "50.55"
+      },
+      "country": "Bahrain",
+      "country_code": "BH",
+      "id": 27,
+      "last_updated": "2020-03-21T14:48:26.928552Z",
+      "latest": {
+        "confirmed": 285,
+        "deaths": 1,
+        "recovered": 100
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "29.5",
+        "longitude": "47.75"
+      },
+      "country": "Kuwait",
+      "country_code": "KW",
+      "id": 28,
+      "last_updated": "2020-03-21T14:48:26.932406Z",
+      "latest": {
+        "confirmed": 159,
+        "deaths": 0,
+        "recovered": 18
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "28.0339",
+        "longitude": "1.6596"
+      },
+      "country": "Algeria",
+      "country_code": "DZ",
+      "id": 29,
+      "last_updated": "2020-03-21T14:48:26.936263Z",
+      "latest": {
+        "confirmed": 90,
+        "deaths": 11,
+        "recovered": 32
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "45.1",
+        "longitude": "15.2"
+      },
+      "country": "Croatia",
+      "country_code": "HR",
+      "id": 30,
+      "last_updated": "2020-03-21T14:48:26.940081Z",
+      "latest": {
+        "confirmed": 128,
+        "deaths": 1,
+        "recovered": 5
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "46.8182",
+        "longitude": "8.2275"
+      },
+      "country": "Switzerland",
+      "country_code": "CH",
+      "id": 31,
+      "last_updated": "2020-03-21T14:48:26.947348Z",
+      "latest": {
+        "confirmed": 5294,
+        "deaths": 54,
+        "recovered": 15
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "47.5162",
+        "longitude": "14.5501"
+      },
+      "country": "Austria",
+      "country_code": "AT",
+      "id": 32,
+      "last_updated": "2020-03-21T14:48:26.954617Z",
+      "latest": {
+        "confirmed": 2388,
+        "deaths": 6,
+        "recovered": 9
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "31",
+        "longitude": "35"
+      },
+      "country": "Israel",
+      "country_code": "IL",
+      "id": 33,
+      "last_updated": "2020-03-21T14:48:26.963975Z",
+      "latest": {
+        "confirmed": 705,
+        "deaths": 0,
+        "recovered": 14
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "30.3753",
+        "longitude": "69.3451"
+      },
+      "country": "Pakistan",
+      "country_code": "PK",
+      "id": 34,
+      "last_updated": "2020-03-21T14:48:26.975071Z",
+      "latest": {
+        "confirmed": 501,
+        "deaths": 3,
+        "recovered": 13
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-14.235",
+        "longitude": "-51.9253"
+      },
+      "country": "Brazil",
+      "country_code": "BR",
+      "id": 35,
+      "last_updated": "2020-03-21T14:48:26.984405Z",
+      "latest": {
+        "confirmed": 793,
+        "deaths": 11,
+        "recovered": 2
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "42.3154",
+        "longitude": "43.3569"
+      },
+      "country": "Georgia",
+      "country_code": "GE",
+      "id": 36,
+      "last_updated": "2020-03-21T14:48:26.991981Z",
+      "latest": {
+        "confirmed": 43,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "39.0742",
+        "longitude": "21.8243"
+      },
+      "country": "Greece",
+      "country_code": "GR",
+      "id": 37,
+      "last_updated": "2020-03-21T14:48:27.000551Z",
+      "latest": {
+        "confirmed": 495,
+        "deaths": 6,
+        "recovered": 19
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "41.6086",
+        "longitude": "21.7453"
+      },
+      "country": "North Macedonia",
+      "country_code": "MK",
+      "id": 38,
+      "last_updated": "2020-03-21T14:48:27.020679Z",
+      "latest": {
+        "confirmed": 67,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "60.472",
+        "longitude": "8.4689"
+      },
+      "country": "Norway",
+      "country_code": "NO",
+      "id": 39,
+      "last_updated": "2020-03-21T14:48:27.033274Z",
+      "latest": {
+        "confirmed": 1914,
+        "deaths": 7,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "45.9432",
+        "longitude": "24.9668"
+      },
+      "country": "Romania",
+      "country_code": "RO",
+      "id": 40,
+      "last_updated": "2020-03-21T14:48:27.046119Z",
+      "latest": {
+        "confirmed": 308,
+        "deaths": 0,
+        "recovered": 25
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "58.5953",
+        "longitude": "25.0136"
+      },
+      "country": "Estonia",
+      "country_code": "EE",
+      "id": 41,
+      "last_updated": "2020-03-21T14:48:27.055757Z",
+      "latest": {
+        "confirmed": 283,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "43.9424",
+        "longitude": "12.4578"
+      },
+      "country": "San Marino",
+      "country_code": "SM",
+      "id": 42,
+      "last_updated": "2020-03-21T14:48:27.060215Z",
+      "latest": {
+        "confirmed": 144,
+        "deaths": 14,
+        "recovered": 4
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "53.7098",
+        "longitude": "27.9534"
+      },
+      "country": "Belarus",
+      "country_code": "BY",
+      "id": 43,
+      "last_updated": "2020-03-21T14:48:27.064019Z",
+      "latest": {
+        "confirmed": 69,
+        "deaths": 0,
+        "recovered": 5
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "64.9631",
+        "longitude": "-19.0208"
+      },
+      "country": "Iceland",
+      "country_code": "IS",
+      "id": 44,
+      "last_updated": "2020-03-21T14:48:27.068137Z",
+      "latest": {
+        "confirmed": 409,
+        "deaths": 0,
+        "recovered": 5
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "55.1694",
+        "longitude": "23.8813"
+      },
+      "country": "Lithuania",
+      "country_code": "LT",
+      "id": 45,
+      "last_updated": "2020-03-21T14:48:27.071892Z",
+      "latest": {
+        "confirmed": 49,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "23.6345",
+        "longitude": "-102.5528"
+      },
+      "country": "Mexico",
+      "country_code": "MX",
+      "id": 46,
+      "last_updated": "2020-03-21T14:48:27.075685Z",
+      "latest": {
+        "confirmed": 164,
+        "deaths": 1,
+        "recovered": 4
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-40.9006",
+        "longitude": "174.886"
+      },
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "id": 47,
+      "last_updated": "2020-03-21T14:48:27.079558Z",
+      "latest": {
+        "confirmed": 39,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "9.082",
+        "longitude": "8.6753"
+      },
+      "country": "Nigeria",
+      "country_code": "NG",
+      "id": 48,
+      "last_updated": "2020-03-21T14:48:27.083390Z",
+      "latest": {
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-31.9505",
+        "longitude": "115.8605"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 49,
+      "last_updated": "2020-03-21T14:48:27.089282Z",
+      "latest": {
+        "confirmed": 64,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Western Australia"
+    },
+    {
+      "coordinates": {
+        "latitude": "53.1424",
+        "longitude": "-7.6921"
+      },
+      "country": "Ireland",
+      "country_code": "IE",
+      "id": 50,
+      "last_updated": "2020-03-21T14:48:27.096095Z",
+      "latest": {
+        "confirmed": 683,
+        "deaths": 3,
+        "recovered": 5
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "49.8153",
+        "longitude": "6.1296"
+      },
+      "country": "Luxembourg",
+      "country_code": "LU",
+      "id": 51,
+      "last_updated": "2020-03-21T14:48:27.103302Z",
+      "latest": {
+        "confirmed": 484,
+        "deaths": 4,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "43.7333",
+        "longitude": "7.4167"
+      },
+      "country": "Monaco",
+      "country_code": "MC",
+      "id": 52,
+      "last_updated": "2020-03-21T14:48:27.109859Z",
+      "latest": {
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "25.3548",
+        "longitude": "51.1839"
+      },
+      "country": "Qatar",
+      "country_code": "QA",
+      "id": 53,
+      "last_updated": "2020-03-21T14:48:27.117982Z",
+      "latest": {
+        "confirmed": 470,
+        "deaths": 0,
+        "recovered": 10
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-1.8312",
+        "longitude": "-78.1834"
+      },
+      "country": "Ecuador",
+      "country_code": "EC",
+      "id": 54,
+      "last_updated": "2020-03-21T14:48:27.125137Z",
+      "latest": {
+        "confirmed": 367,
+        "deaths": 5,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "40.1431",
+        "longitude": "47.5769"
+      },
+      "country": "Azerbaijan",
+      "country_code": "AZ",
+      "id": 55,
+      "last_updated": "2020-03-21T14:48:27.132388Z",
+      "latest": {
+        "confirmed": 44,
+        "deaths": 1,
+        "recovered": 6
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "40.0691",
+        "longitude": "45.0382"
+      },
+      "country": "Armenia",
+      "country_code": "AM",
+      "id": 56,
+      "last_updated": "2020-03-21T14:48:27.138764Z",
+      "latest": {
+        "confirmed": 136,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "18.7357",
+        "longitude": "-70.1627"
+      },
+      "country": "Dominican Republic",
+      "country_code": "DO",
+      "id": 57,
+      "last_updated": "2020-03-21T14:48:27.144426Z",
+      "latest": {
+        "confirmed": 72,
+        "deaths": 2,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-0.7893",
+        "longitude": "113.9213"
+      },
+      "country": "Indonesia",
+      "country_code": "ID",
+      "id": 58,
+      "last_updated": "2020-03-21T14:48:27.151744Z",
+      "latest": {
+        "confirmed": 369,
+        "deaths": 32,
+        "recovered": 15
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "39.3999",
+        "longitude": "-8.2245"
+      },
+      "country": "Portugal",
+      "country_code": "PT",
+      "id": 59,
+      "last_updated": "2020-03-21T14:48:27.159010Z",
+      "latest": {
+        "confirmed": 1020,
+        "deaths": 6,
+        "recovered": 5
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "42.5063",
+        "longitude": "1.5218"
+      },
+      "country": "Andorra",
+      "country_code": "AD",
+      "id": 60,
+      "last_updated": "2020-03-21T14:48:27.165323Z",
+      "latest": {
+        "confirmed": 75,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-41.4545",
+        "longitude": "145.9707"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 61,
+      "last_updated": "2020-03-21T14:48:27.171331Z",
+      "latest": {
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 3
+      },
+      "province": "Tasmania"
+    },
+    {
+      "coordinates": {
+        "latitude": "56.8796",
+        "longitude": "24.6032"
+      },
+      "country": "Latvia",
+      "country_code": "LV",
+      "id": 62,
+      "last_updated": "2020-03-21T14:48:27.178550Z",
+      "latest": {
+        "confirmed": 111,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "31.7917",
+        "longitude": "-7.0926"
+      },
+      "country": "Morocco",
+      "country_code": "MA",
+      "id": 63,
+      "last_updated": "2020-03-21T14:48:27.186472Z",
+      "latest": {
+        "confirmed": 77,
+        "deaths": 3,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "24",
+        "longitude": "45"
+      },
+      "country": "Saudi Arabia",
+      "country_code": "SA",
+      "id": 64,
+      "last_updated": "2020-03-21T14:48:27.194587Z",
+      "latest": {
+        "confirmed": 344,
+        "deaths": 0,
+        "recovered": 8
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "14.4974",
+        "longitude": "-14.4524"
+      },
+      "country": "Senegal",
+      "country_code": "SN",
+      "id": 65,
+      "last_updated": "2020-03-21T14:48:27.202465Z",
+      "latest": {
+        "confirmed": 38,
+        "deaths": 0,
+        "recovered": 2
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-38.4161",
+        "longitude": "-63.6167"
+      },
+      "country": "Argentina",
+      "country_code": "AR",
+      "id": 66,
+      "last_updated": "2020-03-21T14:48:27.210997Z",
+      "latest": {
+        "confirmed": 128,
+        "deaths": 3,
+        "recovered": 3
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-35.6751",
+        "longitude": "-71.543"
+      },
+      "country": "Chile",
+      "country_code": "CL",
+      "id": 67,
+      "last_updated": "2020-03-21T14:48:27.219388Z",
+      "latest": {
+        "confirmed": 434,
+        "deaths": 0,
+        "recovered": 6
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "31.24",
+        "longitude": "36.51"
+      },
+      "country": "Jordan",
+      "country_code": "JO",
+      "id": 68,
+      "last_updated": "2020-03-21T14:48:27.227767Z",
+      "latest": {
+        "confirmed": 85,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "48.3794",
+        "longitude": "31.1656"
+      },
+      "country": "Ukraine",
+      "country_code": "UA",
+      "id": 69,
+      "last_updated": "2020-03-21T14:48:27.234294Z",
+      "latest": {
+        "confirmed": 29,
+        "deaths": 3,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "47.1625",
+        "longitude": "19.5033"
+      },
+      "country": "Hungary",
+      "country_code": "HU",
+      "id": 70,
+      "last_updated": "2020-03-21T14:48:27.240963Z",
+      "latest": {
+        "confirmed": 85,
+        "deaths": 3,
+        "recovered": 2
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-12.4634",
+        "longitude": "130.8456"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 71,
+      "last_updated": "2020-03-21T14:48:27.247594Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Northern Territory"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.14",
+        "longitude": "9.55"
+      },
+      "country": "Liechtenstein",
+      "country_code": "LI",
+      "id": 72,
+      "last_updated": "2020-03-21T14:48:27.254391Z",
+      "latest": {
+        "confirmed": 28,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "51.9194",
+        "longitude": "19.1451"
+      },
+      "country": "Poland",
+      "country_code": "PL",
+      "id": 73,
+      "last_updated": "2020-03-21T14:48:27.260850Z",
+      "latest": {
+        "confirmed": 425,
+        "deaths": 5,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "34",
+        "longitude": "9"
+      },
+      "country": "Tunisia",
+      "country_code": "TN",
+      "id": 74,
+      "last_updated": "2020-03-21T14:48:27.267277Z",
+      "latest": {
+        "confirmed": 54,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "43.9159",
+        "longitude": "17.6791"
+      },
+      "country": "Bosnia and Herzegovina",
+      "country_code": "BA",
+      "id": 75,
+      "last_updated": "2020-03-21T14:48:27.273731Z",
+      "latest": {
+        "confirmed": 89,
+        "deaths": 0,
+        "recovered": 2
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "46.1512",
+        "longitude": "14.9955"
+      },
+      "country": "Slovenia",
+      "country_code": "SI",
+      "id": 76,
+      "last_updated": "2020-03-21T14:48:27.280842Z",
+      "latest": {
+        "confirmed": 341,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-30.5595",
+        "longitude": "22.9375"
+      },
+      "country": "South Africa",
+      "country_code": "ZA",
+      "id": 77,
+      "last_updated": "2020-03-21T14:48:27.287576Z",
+      "latest": {
+        "confirmed": 202,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "27.5142",
+        "longitude": "90.4336"
+      },
+      "country": "Bhutan",
+      "country_code": "BT",
+      "id": 78,
+      "last_updated": "2020-03-21T14:48:27.294152Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "3.848",
+        "longitude": "11.5021"
+      },
+      "country": "Cameroon",
+      "country_code": "CM",
+      "id": 79,
+      "last_updated": "2020-03-21T14:48:27.300799Z",
+      "latest": {
+        "confirmed": 20,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "4.5709",
+        "longitude": "-74.2973"
+      },
+      "country": "Colombia",
+      "country_code": "CO",
+      "id": 80,
+      "last_updated": "2020-03-21T14:48:27.307385Z",
+      "latest": {
+        "confirmed": 128,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "9.7489",
+        "longitude": "-83.7534"
+      },
+      "country": "Costa Rica",
+      "country_code": "CR",
+      "id": 81,
+      "last_updated": "2020-03-21T14:48:27.314199Z",
+      "latest": {
+        "confirmed": 89,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-9.19",
+        "longitude": "-75.0152"
+      },
+      "country": "Peru",
+      "country_code": "PE",
+      "id": 82,
+      "last_updated": "2020-03-21T14:48:27.321400Z",
+      "latest": {
+        "confirmed": 234,
+        "deaths": 3,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "44.0165",
+        "longitude": "21.0059"
+      },
+      "country": "Serbia",
+      "country_code": "RS",
+      "id": 83,
+      "last_updated": "2020-03-21T14:48:27.329264Z",
+      "latest": {
+        "confirmed": 135,
+        "deaths": 1,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "48.669",
+        "longitude": "19.699"
+      },
+      "country": "Slovakia",
+      "country_code": "SK",
+      "id": 84,
+      "last_updated": "2020-03-21T14:48:27.335674Z",
+      "latest": {
+        "confirmed": 137,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "8.6195",
+        "longitude": "0.8248"
+      },
+      "country": "Togo",
+      "country_code": "TG",
+      "id": 85,
+      "last_updated": "2020-03-21T14:48:27.342800Z",
+      "latest": {
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "35.9375",
+        "longitude": "14.3754"
+      },
+      "country": "Malta",
+      "country_code": "MT",
+      "id": 86,
+      "last_updated": "2020-03-21T14:48:27.349825Z",
+      "latest": {
+        "confirmed": 64,
+        "deaths": 0,
+        "recovered": 2
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "14.6415",
+        "longitude": "-61.0242"
+      },
+      "country": "Martinique",
+      "country_code": "MQ",
+      "id": 87,
+      "last_updated": "2020-03-21T14:48:27.355561Z",
+      "latest": {
+        "confirmed": 32,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "42.7339",
+        "longitude": "25.4858"
+      },
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "id": 88,
+      "last_updated": "2020-03-21T14:48:27.363219Z",
+      "latest": {
+        "confirmed": 127,
+        "deaths": 3,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "3.2028",
+        "longitude": "73.2207"
+      },
+      "country": "Maldives",
+      "country_code": "MV",
+      "id": 89,
+      "last_updated": "2020-03-21T14:48:27.370585Z",
+      "latest": {
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "23.685",
+        "longitude": "90.3563"
+      },
+      "country": "Bangladesh",
+      "country_code": "BD",
+      "id": 90,
+      "last_updated": "2020-03-21T14:48:27.377771Z",
+      "latest": {
+        "confirmed": 20,
+        "deaths": 1,
+        "recovered": 3
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-23.4425",
+        "longitude": "-58.4438"
+      },
+      "country": "Paraguay",
+      "country_code": "PY",
+      "id": 91,
+      "last_updated": "2020-03-21T14:48:27.383833Z",
+      "latest": {
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "51.2538",
+        "longitude": "-85.3232"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 92,
+      "last_updated": "2020-03-21T14:48:27.390909Z",
+      "latest": {
+        "confirmed": 308,
+        "deaths": 2,
+        "recovered": 5
+      },
+      "province": "Ontario"
+    },
+    {
+      "coordinates": {
+        "latitude": "53.9333",
+        "longitude": "-116.5765"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 93,
+      "last_updated": "2020-03-21T14:48:27.398267Z",
+      "latest": {
+        "confirmed": 146,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Alberta"
+    },
+    {
+      "coordinates": {
+        "latitude": "52.9399",
+        "longitude": "-73.5491"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 94,
+      "last_updated": "2020-03-21T14:48:27.405254Z",
+      "latest": {
+        "confirmed": 139,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Quebec"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.1533",
+        "longitude": "20.1683"
+      },
+      "country": "Albania",
+      "country_code": "AL",
+      "id": 95,
+      "last_updated": "2020-03-21T14:48:27.411671Z",
+      "latest": {
+        "confirmed": 70,
+        "deaths": 2,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "35.1264",
+        "longitude": "33.4299"
+      },
+      "country": "Cyprus",
+      "country_code": "CY",
+      "id": 96,
+      "last_updated": "2020-03-21T14:48:27.417366Z",
+      "latest": {
+        "confirmed": 67,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "4.5353",
+        "longitude": "114.7277"
+      },
+      "country": "Brunei",
+      "country_code": "BN",
+      "id": 97,
+      "last_updated": "2020-03-21T14:48:27.424448Z",
+      "latest": {
+        "confirmed": 78,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "47.4009",
+        "longitude": "-121.4905"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 98,
+      "last_updated": "2020-03-21T14:48:27.429527Z",
+      "latest": {
+        "confirmed": 1524,
+        "deaths": 83,
+        "recovered": 0
+      },
+      "province": "Washington"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.1657",
+        "longitude": "-74.9481"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 99,
+      "last_updated": "2020-03-21T14:48:27.435009Z",
+      "latest": {
+        "confirmed": 8310,
+        "deaths": 42,
+        "recovered": 0
+      },
+      "province": "New York"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.1162",
+        "longitude": "-119.6816"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 100,
+      "last_updated": "2020-03-21T14:48:27.441689Z",
+      "latest": {
+        "confirmed": 1177,
+        "deaths": 23,
+        "recovered": 0
+      },
+      "province": "California"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.2302",
+        "longitude": "-71.5301"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 101,
+      "last_updated": "2020-03-21T14:48:27.447992Z",
+      "latest": {
+        "confirmed": 413,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Massachusetts"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.4437",
+        "longitude": "139.638"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 102,
+      "last_updated": "2020-03-21T14:48:27.454164Z",
+      "latest": {
+        "confirmed": 49,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Diamond Princess"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.6489",
+        "longitude": "-122.6655"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 103,
+      "last_updated": "2020-03-21T14:48:27.487745Z",
+      "latest": {
+        "confirmed": 23,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Grand Princess"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.0406",
+        "longitude": "-83.6431"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 104,
+      "last_updated": "2020-03-21T14:48:27.495036Z",
+      "latest": {
+        "confirmed": 420,
+        "deaths": 13,
+        "recovered": 0
+      },
+      "province": "Georgia"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.0598",
+        "longitude": "-105.3111"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 105,
+      "last_updated": "2020-03-21T14:48:27.504621Z",
+      "latest": {
+        "confirmed": 363,
+        "deaths": 4,
+        "recovered": 0
+      },
+      "province": "Colorado"
+    },
+    {
+      "coordinates": {
+        "latitude": "27.7663",
+        "longitude": "-81.6868"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 106,
+      "last_updated": "2020-03-21T14:48:27.510294Z",
+      "latest": {
+        "confirmed": 563,
+        "deaths": 10,
+        "recovered": 0
+      },
+      "province": "Florida"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.2989",
+        "longitude": "-74.521"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 107,
+      "last_updated": "2020-03-21T14:48:27.519410Z",
+      "latest": {
+        "confirmed": 890,
+        "deaths": 11,
+        "recovered": 0
+      },
+      "province": "New Jersey"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.572",
+        "longitude": "-122.0709"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 108,
+      "last_updated": "2020-03-21T14:48:27.527345Z",
+      "latest": {
+        "confirmed": 114,
+        "deaths": 3,
+        "recovered": 0
+      },
+      "province": "Oregon"
+    },
+    {
+      "coordinates": {
+        "latitude": "31.0545",
+        "longitude": "-97.5635"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 109,
+      "last_updated": "2020-03-21T14:48:27.533052Z",
+      "latest": {
+        "confirmed": 394,
+        "deaths": 5,
+        "recovered": 0
+      },
+      "province": "Texas"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.3495",
+        "longitude": "-88.9861"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 110,
+      "last_updated": "2020-03-21T14:48:27.538891Z",
+      "latest": {
+        "confirmed": 585,
+        "deaths": 5,
+        "recovered": 0
+      },
+      "province": "Illinois"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.5908",
+        "longitude": "-77.2098"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 111,
+      "last_updated": "2020-03-21T14:48:27.543854Z",
+      "latest": {
+        "confirmed": 303,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Pennsylvania"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.0115",
+        "longitude": "-93.2105"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 112,
+      "last_updated": "2020-03-21T14:48:27.549076Z",
+      "latest": {
+        "confirmed": 45,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Iowa"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.0639",
+        "longitude": "-76.8021"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 113,
+      "last_updated": "2020-03-21T14:48:27.555952Z",
+      "latest": {
+        "confirmed": 149,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Maryland"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.6301",
+        "longitude": "-79.8064"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 114,
+      "last_updated": "2020-03-21T14:48:27.564824Z",
+      "latest": {
+        "confirmed": 172,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "North Carolina"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.8569",
+        "longitude": "-80.945"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 115,
+      "last_updated": "2020-03-21T14:48:27.572120Z",
+      "latest": {
+        "confirmed": 126,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "South Carolina"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.7478",
+        "longitude": "-86.6923"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 116,
+      "last_updated": "2020-03-21T14:48:27.579251Z",
+      "latest": {
+        "confirmed": 233,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Tennessee"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.7693",
+        "longitude": "-78.17"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 117,
+      "last_updated": "2020-03-21T14:48:27.586486Z",
+      "latest": {
+        "confirmed": 122,
+        "deaths": 2,
+        "recovered": 0
+      },
+      "province": "Virginia"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.7298",
+        "longitude": "-111.4312"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 118,
+      "last_updated": "2020-03-21T14:48:27.593370Z",
+      "latest": {
+        "confirmed": 78,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Arizona"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.8494",
+        "longitude": "-86.2583"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 119,
+      "last_updated": "2020-03-21T14:48:27.600310Z",
+      "latest": {
+        "confirmed": 86,
+        "deaths": 2,
+        "recovered": 0
+      },
+      "province": "Indiana"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.6681",
+        "longitude": "-84.6701"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 120,
+      "last_updated": "2020-03-21T14:48:27.607352Z",
+      "latest": {
+        "confirmed": 47,
+        "deaths": 2,
+        "recovered": 0
+      },
+      "province": "Kentucky"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.8974",
+        "longitude": "-77.0268"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 121,
+      "last_updated": "2020-03-21T14:48:27.614308Z",
+      "latest": {
+        "confirmed": 71,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "District of Columbia"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.3135",
+        "longitude": "-117.0554"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 122,
+      "last_updated": "2020-03-21T14:48:27.621123Z",
+      "latest": {
+        "confirmed": 114,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Nevada"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.4525",
+        "longitude": "-71.5639"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 123,
+      "last_updated": "2020-03-21T14:48:27.628248Z",
+      "latest": {
+        "confirmed": 44,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "New Hampshire"
+    },
+    {
+      "coordinates": {
+        "latitude": "45.6945",
+        "longitude": "-93.9002"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 124,
+      "last_updated": "2020-03-21T14:48:27.635195Z",
+      "latest": {
+        "confirmed": 115,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Minnesota"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.1254",
+        "longitude": "-98.2681"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 125,
+      "last_updated": "2020-03-21T14:48:27.641992Z",
+      "latest": {
+        "confirmed": 37,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Nebraska"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.3888",
+        "longitude": "-82.7649"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 126,
+      "last_updated": "2020-03-21T14:48:27.649270Z",
+      "latest": {
+        "confirmed": 173,
+        "deaths": 2,
+        "recovered": 0
+      },
+      "province": "Ohio"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.6809",
+        "longitude": "-71.5118"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 127,
+      "last_updated": "2020-03-21T14:48:27.660729Z",
+      "latest": {
+        "confirmed": 54,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Rhode Island"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.2685",
+        "longitude": "-89.6165"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 128,
+      "last_updated": "2020-03-21T14:48:27.679684Z",
+      "latest": {
+        "confirmed": 207,
+        "deaths": 3,
+        "recovered": 0
+      },
+      "province": "Wisconsin"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.5978",
+        "longitude": "-72.7554"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 129,
+      "last_updated": "2020-03-21T14:48:27.686807Z",
+      "latest": {
+        "confirmed": 194,
+        "deaths": 3,
+        "recovered": 0
+      },
+      "province": "Connecticut"
+    },
+    {
+      "coordinates": {
+        "latitude": "21.0943",
+        "longitude": "-157.4983"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 130,
+      "last_updated": "2020-03-21T14:48:27.694126Z",
+      "latest": {
+        "confirmed": 26,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Hawaii"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.5653",
+        "longitude": "-96.9289"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 131,
+      "last_updated": "2020-03-21T14:48:27.701310Z",
+      "latest": {
+        "confirmed": 49,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Oklahoma"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.15",
+        "longitude": "-111.8624"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 132,
+      "last_updated": "2020-03-21T14:48:27.708060Z",
+      "latest": {
+        "confirmed": 78,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Utah"
+    },
+    {
+      "coordinates": {
+        "latitude": "12.2383",
+        "longitude": "-1.5616"
+      },
+      "country": "Burkina Faso",
+      "country_code": "BF",
+      "id": 133,
+      "last_updated": "2020-03-21T14:48:27.714971Z",
+      "latest": {
+        "confirmed": 40,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "41.9029",
+        "longitude": "12.4534"
+      },
+      "country": "Holy See",
+      "country_code": "VA",
+      "id": 134,
+      "last_updated": "2020-03-21T14:48:27.721928Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "46.8625",
+        "longitude": "103.8467"
+      },
+      "country": "Mongolia",
+      "country_code": "MN",
+      "id": 135,
+      "last_updated": "2020-03-21T14:48:27.730932Z",
+      "latest": {
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "8.538",
+        "longitude": "-80.7821"
+      },
+      "country": "Panama",
+      "country_code": "PA",
+      "id": 136,
+      "last_updated": "2020-03-21T14:48:27.737814Z",
+      "latest": {
+        "confirmed": 137,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "38.5266",
+        "longitude": "-96.7265"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 137,
+      "last_updated": "2020-03-21T14:48:27.744617Z",
+      "latest": {
+        "confirmed": 44,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Kansas"
+    },
+    {
+      "coordinates": {
+        "latitude": "31.1695",
+        "longitude": "-91.8678"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 138,
+      "last_updated": "2020-03-21T14:48:27.751407Z",
+      "latest": {
+        "confirmed": 538,
+        "deaths": 14,
+        "recovered": 0
+      },
+      "province": "Louisiana"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.4561",
+        "longitude": "-92.2884"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 139,
+      "last_updated": "2020-03-21T14:48:27.759054Z",
+      "latest": {
+        "confirmed": 53,
+        "deaths": 2,
+        "recovered": 0
+      },
+      "province": "Missouri"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.0459",
+        "longitude": "-72.7107"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 140,
+      "last_updated": "2020-03-21T14:48:27.765841Z",
+      "latest": {
+        "confirmed": 29,
+        "deaths": 2,
+        "recovered": 0
+      },
+      "province": "Vermont"
+    },
+    {
+      "coordinates": {
+        "latitude": "61.3707",
+        "longitude": "-152.4044"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 141,
+      "last_updated": "2020-03-21T14:48:27.772569Z",
+      "latest": {
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Alaska"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.9697",
+        "longitude": "-92.3731"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 142,
+      "last_updated": "2020-03-21T14:48:27.779383Z",
+      "latest": {
+        "confirmed": 96,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Arkansas"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.3185",
+        "longitude": "-75.5071"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 143,
+      "last_updated": "2020-03-21T14:48:27.786266Z",
+      "latest": {
+        "confirmed": 38,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Delaware"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.2405",
+        "longitude": "-114.4788"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 144,
+      "last_updated": "2020-03-21T14:48:27.792882Z",
+      "latest": {
+        "confirmed": 23,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Idaho"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.6939",
+        "longitude": "-69.3819"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 145,
+      "last_updated": "2020-03-21T14:48:27.800385Z",
+      "latest": {
+        "confirmed": 56,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Maine"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.3266",
+        "longitude": "-84.5361"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 146,
+      "last_updated": "2020-03-21T14:48:27.807168Z",
+      "latest": {
+        "confirmed": 552,
+        "deaths": 3,
+        "recovered": 0
+      },
+      "province": "Michigan"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.7416",
+        "longitude": "-89.6787"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 147,
+      "last_updated": "2020-03-21T14:48:27.814359Z",
+      "latest": {
+        "confirmed": 80,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Mississippi"
+    },
+    {
+      "coordinates": {
+        "latitude": "46.9219",
+        "longitude": "-110.4544"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 148,
+      "last_updated": "2020-03-21T14:48:27.820885Z",
+      "latest": {
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Montana"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.8405",
+        "longitude": "-106.2485"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 149,
+      "last_updated": "2020-03-21T14:48:27.827539Z",
+      "latest": {
+        "confirmed": 43,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "New Mexico"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.5289",
+        "longitude": "-99.784"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 150,
+      "last_updated": "2020-03-21T14:48:27.833923Z",
+      "latest": {
+        "confirmed": 19,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "North Dakota"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.2998",
+        "longitude": "-99.4388"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 151,
+      "last_updated": "2020-03-21T14:48:27.840668Z",
+      "latest": {
+        "confirmed": 14,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "South Dakota"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.4912",
+        "longitude": "-80.9545"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 152,
+      "last_updated": "2020-03-21T14:48:27.847411Z",
+      "latest": {
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "West Virginia"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.756",
+        "longitude": "-107.3025"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 153,
+      "last_updated": "2020-03-21T14:48:27.854407Z",
+      "latest": {
+        "confirmed": 19,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Wyoming"
+    },
+    {
+      "coordinates": {
+        "latitude": "30.9756",
+        "longitude": "112.2707"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 154,
+      "last_updated": "2020-03-21T14:48:27.861218Z",
+      "latest": {
+        "confirmed": 67800,
+        "deaths": 3133,
+        "recovered": 58382
+      },
+      "province": "Hubei"
+    },
+    {
+      "coordinates": {
+        "latitude": "32",
+        "longitude": "53"
+      },
+      "country": "Iran",
+      "country_code": "IR",
+      "id": 155,
+      "last_updated": "2020-03-21T14:48:27.867925Z",
+      "latest": {
+        "confirmed": 19644,
+        "deaths": 1433,
+        "recovered": 6745
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "36",
+        "longitude": "128"
+      },
+      "country": "Korea, South",
+      "country_code": "KR",
+      "id": 156,
+      "last_updated": "2020-03-21T14:48:27.874615Z",
+      "latest": {
+        "confirmed": 8652,
+        "deaths": 94,
+        "recovered": 1540
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "46.2276",
+        "longitude": "2.2137"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 157,
+      "last_updated": "2020-03-21T14:48:27.896103Z",
+      "latest": {
+        "confirmed": 12612,
+        "deaths": 450,
+        "recovered": 12
+      },
+      "province": "France"
+    },
+    {
+      "coordinates": {
+        "latitude": "23.3417",
+        "longitude": "113.4244"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 158,
+      "last_updated": "2020-03-21T14:48:27.925897Z",
+      "latest": {
+        "confirmed": 1395,
+        "deaths": 8,
+        "recovered": 1323
+      },
+      "province": "Guangdong"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.882",
+        "longitude": "113.614"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 159,
+      "last_updated": "2020-03-21T14:48:28.027150Z",
+      "latest": {
+        "confirmed": 1273,
+        "deaths": 22,
+        "recovered": 1250
+      },
+      "province": "Henan"
+    },
+    {
+      "coordinates": {
+        "latitude": "29.1832",
+        "longitude": "120.0934"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 160,
+      "last_updated": "2020-03-21T14:48:28.084429Z",
+      "latest": {
+        "confirmed": 1234,
+        "deaths": 1,
+        "recovered": 1219
+      },
+      "province": "Zhejiang"
+    },
+    {
+      "coordinates": {
+        "latitude": "27.6104",
+        "longitude": "111.7088"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 161,
+      "last_updated": "2020-03-21T14:48:28.130292Z",
+      "latest": {
+        "confirmed": 1018,
+        "deaths": 4,
+        "recovered": 1014
+      },
+      "province": "Hunan"
+    },
+    {
+      "coordinates": {
+        "latitude": "31.8257",
+        "longitude": "117.2264"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 162,
+      "last_updated": "2020-03-21T14:48:28.157829Z",
+      "latest": {
+        "confirmed": 990,
+        "deaths": 6,
+        "recovered": 984
+      },
+      "province": "Anhui"
+    },
+    {
+      "coordinates": {
+        "latitude": "27.614",
+        "longitude": "115.7221"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 163,
+      "last_updated": "2020-03-21T14:48:28.205373Z",
+      "latest": {
+        "confirmed": 935,
+        "deaths": 1,
+        "recovered": 934
+      },
+      "province": "Jiangxi"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.3427",
+        "longitude": "118.1498"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 164,
+      "last_updated": "2020-03-21T14:48:28.228274Z",
+      "latest": {
+        "confirmed": 762,
+        "deaths": 7,
+        "recovered": 748
+      },
+      "province": "Shandong"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.4437",
+        "longitude": "139.638"
+      },
+      "country": "Cruise Ship",
+      "country_code": "XX",
+      "id": 165,
+      "last_updated": "2020-03-21T14:48:28.271472Z",
+      "latest": {
+        "confirmed": 712,
+        "deaths": 7,
+        "recovered": 325
+      },
+      "province": "Diamond Princess"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.9711",
+        "longitude": "119.455"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 166,
+      "last_updated": "2020-03-21T14:48:28.281905Z",
+      "latest": {
+        "confirmed": 631,
+        "deaths": 0,
+        "recovered": 631
+      },
+      "province": "Jiangsu"
+    },
+    {
+      "coordinates": {
+        "latitude": "30.0572",
+        "longitude": "107.874"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 167,
+      "last_updated": "2020-03-21T14:48:28.301856Z",
+      "latest": {
+        "confirmed": 576,
+        "deaths": 6,
+        "recovered": 570
+      },
+      "province": "Chongqing"
+    },
+    {
+      "coordinates": {
+        "latitude": "30.6171",
+        "longitude": "102.7103"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 168,
+      "last_updated": "2020-03-21T14:48:28.325512Z",
+      "latest": {
+        "confirmed": 541,
+        "deaths": 3,
+        "recovered": 536
+      },
+      "province": "Sichuan"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.862",
+        "longitude": "127.7615"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 169,
+      "last_updated": "2020-03-21T14:48:28.332728Z",
+      "latest": {
+        "confirmed": 484,
+        "deaths": 13,
+        "recovered": 463
+      },
+      "province": "Heilongjiang"
+    },
+    {
+      "coordinates": {
+        "latitude": "56.2639",
+        "longitude": "9.5018"
+      },
+      "country": "Denmark",
+      "country_code": "DK",
+      "id": 170,
+      "last_updated": "2020-03-21T14:48:28.376118Z",
+      "latest": {
+        "confirmed": 1255,
+        "deaths": 9,
+        "recovered": 1
+      },
+      "province": "Denmark"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.1824",
+        "longitude": "116.4142"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 171,
+      "last_updated": "2020-03-21T14:48:28.411877Z",
+      "latest": {
+        "confirmed": 491,
+        "deaths": 8,
+        "recovered": 390
+      },
+      "province": "Beijing"
+    },
+    {
+      "coordinates": {
+        "latitude": "31.202",
+        "longitude": "121.4491"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 172,
+      "last_updated": "2020-03-21T14:48:28.440010Z",
+      "latest": {
+        "confirmed": 371,
+        "deaths": 3,
+        "recovered": 326
+      },
+      "province": "Shanghai"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.549",
+        "longitude": "116.1306"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 173,
+      "last_updated": "2020-03-21T14:48:28.452950Z",
+      "latest": {
+        "confirmed": 318,
+        "deaths": 6,
+        "recovered": 310
+      },
+      "province": "Hebei"
+    },
+    {
+      "coordinates": {
+        "latitude": "26.0789",
+        "longitude": "117.9874"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 174,
+      "last_updated": "2020-03-21T14:48:28.462265Z",
+      "latest": {
+        "confirmed": 299,
+        "deaths": 1,
+        "recovered": 295
+      },
+      "province": "Fujian"
+    },
+    {
+      "coordinates": {
+        "latitude": "23.8298",
+        "longitude": "108.7881"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 175,
+      "last_updated": "2020-03-21T14:48:28.470998Z",
+      "latest": {
+        "confirmed": 254,
+        "deaths": 2,
+        "recovered": 250
+      },
+      "province": "Guangxi"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.1917",
+        "longitude": "108.8701"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 176,
+      "last_updated": "2020-03-21T14:48:28.479423Z",
+      "latest": {
+        "confirmed": 247,
+        "deaths": 3,
+        "recovered": 237
+      },
+      "province": "Shaanxi"
+    },
+    {
+      "coordinates": {
+        "latitude": "24.974",
+        "longitude": "101.487"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 177,
+      "last_updated": "2020-03-21T14:48:28.488190Z",
+      "latest": {
+        "confirmed": 176,
+        "deaths": 2,
+        "recovered": 172
+      },
+      "province": "Yunnan"
+    },
+    {
+      "coordinates": {
+        "latitude": "19.1959",
+        "longitude": "109.7453"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 178,
+      "last_updated": "2020-03-21T14:48:28.496639Z",
+      "latest": {
+        "confirmed": 168,
+        "deaths": 6,
+        "recovered": 161
+      },
+      "province": "Hainan"
+    },
+    {
+      "coordinates": {
+        "latitude": "26.8154",
+        "longitude": "106.8748"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 179,
+      "last_updated": "2020-03-21T14:48:28.505180Z",
+      "latest": {
+        "confirmed": 146,
+        "deaths": 2,
+        "recovered": 144
+      },
+      "province": "Guizhou"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.3054",
+        "longitude": "117.323"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 180,
+      "last_updated": "2020-03-21T14:48:28.515173Z",
+      "latest": {
+        "confirmed": 137,
+        "deaths": 3,
+        "recovered": 133
+      },
+      "province": "Tianjin"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.5777",
+        "longitude": "112.2922"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 181,
+      "last_updated": "2020-03-21T14:48:28.524618Z",
+      "latest": {
+        "confirmed": 133,
+        "deaths": 0,
+        "recovered": 133
+      },
+      "province": "Shanxi"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.8099",
+        "longitude": "101.0583"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 182,
+      "last_updated": "2020-03-21T14:48:28.533117Z",
+      "latest": {
+        "confirmed": 134,
+        "deaths": 2,
+        "recovered": 98
+      },
+      "province": "Gansu"
+    },
+    {
+      "coordinates": {
+        "latitude": "22.3",
+        "longitude": "114.2"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 183,
+      "last_updated": "2020-03-21T14:48:28.542271Z",
+      "latest": {
+        "confirmed": 256,
+        "deaths": 4,
+        "recovered": 98
+      },
+      "province": "Hong Kong"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.2956",
+        "longitude": "122.6085"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 184,
+      "last_updated": "2020-03-21T14:48:28.550815Z",
+      "latest": {
+        "confirmed": 126,
+        "deaths": 2,
+        "recovered": 122
+      },
+      "province": "Liaoning"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.6661",
+        "longitude": "126.1923"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 185,
+      "last_updated": "2020-03-21T14:48:28.566727Z",
+      "latest": {
+        "confirmed": 93,
+        "deaths": 1,
+        "recovered": 92
+      },
+      "province": "Jilin"
+    },
+    {
+      "coordinates": {
+        "latitude": "49.8175",
+        "longitude": "15.473"
+      },
+      "country": "Czechia",
+      "country_code": "CZ",
+      "id": 186,
+      "last_updated": "2020-03-21T14:48:28.602872Z",
+      "latest": {
+        "confirmed": 833,
+        "deaths": 0,
+        "recovered": 4
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "41.1129",
+        "longitude": "85.2401"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 187,
+      "last_updated": "2020-03-21T14:48:28.611730Z",
+      "latest": {
+        "confirmed": 76,
+        "deaths": 3,
+        "recovered": 73
+      },
+      "province": "Xinjiang"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.0935",
+        "longitude": "113.9448"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 188,
+      "last_updated": "2020-03-21T14:48:28.615461Z",
+      "latest": {
+        "confirmed": 75,
+        "deaths": 1,
+        "recovered": 74
+      },
+      "province": "Inner Mongolia"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.2692",
+        "longitude": "106.1655"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 189,
+      "last_updated": "2020-03-21T14:48:28.619413Z",
+      "latest": {
+        "confirmed": 75,
+        "deaths": 0,
+        "recovered": 75
+      },
+      "province": "Ningxia"
+    },
+    {
+      "coordinates": {
+        "latitude": "23.7",
+        "longitude": "121"
+      },
+      "country": "Taiwan*",
+      "country_code": "TW",
+      "id": 190,
+      "last_updated": "2020-03-21T14:48:28.626040Z",
+      "latest": {
+        "confirmed": 135,
+        "deaths": 2,
+        "recovered": 26
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "16",
+        "longitude": "108"
+      },
+      "country": "Vietnam",
+      "country_code": "VN",
+      "id": 191,
+      "last_updated": "2020-03-21T14:48:28.644305Z",
+      "latest": {
+        "confirmed": 91,
+        "deaths": 0,
+        "recovered": 16
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "60",
+        "longitude": "90"
+      },
+      "country": "Russia",
+      "country_code": "RU",
+      "id": 192,
+      "last_updated": "2020-03-21T14:48:28.660052Z",
+      "latest": {
+        "confirmed": 253,
+        "deaths": 1,
+        "recovered": 9
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "35.7452",
+        "longitude": "95.9956"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 193,
+      "last_updated": "2020-03-21T14:48:28.668225Z",
+      "latest": {
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 18
+      },
+      "province": "Qinghai"
+    },
+    {
+      "coordinates": {
+        "latitude": "22.1667",
+        "longitude": "113.55"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 194,
+      "last_updated": "2020-03-21T14:48:28.675153Z",
+      "latest": {
+        "confirmed": 17,
+        "deaths": 0,
+        "recovered": 10
+      },
+      "province": "Macau"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.4116",
+        "longitude": "28.3699"
+      },
+      "country": "Moldova",
+      "country_code": "MD",
+      "id": 195,
+      "last_updated": "2020-03-21T14:48:28.682025Z",
+      "latest": {
+        "confirmed": 66,
+        "deaths": 1,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-16.2902",
+        "longitude": "-63.5887"
+      },
+      "country": "Bolivia",
+      "country_code": "BO",
+      "id": 196,
+      "last_updated": "2020-03-21T14:48:28.694989Z",
+      "latest": {
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "61.8926",
+        "longitude": "-6.9118"
+      },
+      "country": "Denmark",
+      "country_code": "DK",
+      "id": 197,
+      "last_updated": "2020-03-21T14:48:28.703961Z",
+      "latest": {
+        "confirmed": 80,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Faroe Islands"
+    },
+    {
+      "coordinates": {
+        "latitude": "18.0708",
+        "longitude": "-63.0501"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 198,
+      "last_updated": "2020-03-21T14:48:28.713193Z",
+      "latest": {
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "St Martin"
+    },
+    {
+      "coordinates": {
+        "latitude": "15.2",
+        "longitude": "-86.2419"
+      },
+      "country": "Honduras",
+      "country_code": "HN",
+      "id": 199,
+      "last_updated": "2020-03-21T14:48:28.721539Z",
+      "latest": {
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "49.3723",
+        "longitude": "-2.3644"
+      },
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "id": 200,
+      "last_updated": "2020-03-21T14:48:28.729279Z",
+      "latest": {
+        "confirmed": 14,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Channel Islands"
+    },
+    {
+      "coordinates": {
+        "latitude": "46.5653",
+        "longitude": "-66.4619"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 201,
+      "last_updated": "2020-03-21T14:48:28.737676Z",
+      "latest": {
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "New Brunswick"
+    },
+    {
+      "coordinates": {
+        "latitude": "31.6927",
+        "longitude": "88.0924"
+      },
+      "country": "China",
+      "country_code": "CN",
+      "id": 202,
+      "last_updated": "2020-03-21T14:48:28.745755Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": "Tibet"
+    },
+    {
+      "coordinates": {
+        "latitude": "-4.0383",
+        "longitude": "21.7587"
+      },
+      "country": "Congo (Kinshasa)",
+      "country_code": "CD",
+      "id": 203,
+      "last_updated": "2020-03-21T14:48:28.754178Z",
+      "latest": {
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "7.54",
+        "longitude": "-5.5471"
+      },
+      "country": "Cote d'Ivoire",
+      "country_code": "CI",
+      "id": 204,
+      "last_updated": "2020-03-21T14:48:28.762502Z",
+      "latest": {
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 1
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "17.9",
+        "longitude": "-62.8333"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 205,
+      "last_updated": "2020-03-21T14:48:28.770916Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Saint Barthelemy"
+    },
+    {
+      "coordinates": {
+        "latitude": "18.1096",
+        "longitude": "-77.2975"
+      },
+      "country": "Jamaica",
+      "country_code": "JM",
+      "id": 206,
+      "last_updated": "2020-03-21T14:48:28.778571Z",
+      "latest": {
+        "confirmed": 16,
+        "deaths": 1,
+        "recovered": 2
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "38.9637",
+        "longitude": "35.2433"
+      },
+      "country": "Turkey",
+      "country_code": "TR",
+      "id": 207,
+      "last_updated": "2020-03-21T14:48:28.786554Z",
+      "latest": {
+        "confirmed": 359,
+        "deaths": 4,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "36.1408",
+        "longitude": "-5.3536"
+      },
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "id": 208,
+      "last_updated": "2020-03-21T14:48:28.794777Z",
+      "latest": {
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 2
+      },
+      "province": "Gibraltar"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.6477",
+        "longitude": "-122.6413"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 209,
+      "last_updated": "2020-03-21T14:48:28.802638Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Kitsap, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.3105",
+        "longitude": "-121.9018"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 210,
+      "last_updated": "2020-03-21T14:48:28.815622Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Solano, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.0454",
+        "longitude": "-121.958"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 211,
+      "last_updated": "2020-03-21T14:48:28.823671Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Santa Cruz, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.5025",
+        "longitude": "-122.2654"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 212,
+      "last_updated": "2020-03-21T14:48:28.832145Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Napa, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.3705",
+        "longitude": "-119.1391"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 213,
+      "last_updated": "2020-03-21T14:48:28.840457Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Ventura, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.4097",
+        "longitude": "-71.8571"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 214,
+      "last_updated": "2020-03-21T14:48:28.857307Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Worcester, MA"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.9191",
+        "longitude": "-84.0167"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 215,
+      "last_updated": "2020-03-21T14:48:28.866538Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Gwinnett, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.7956",
+        "longitude": "-84.2279"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 216,
+      "last_updated": "2020-03-21T14:48:28.878778Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "DeKalb, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.5455",
+        "longitude": "-82.7779"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 217,
+      "last_updated": "2020-03-21T14:48:28.891627Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Floyd, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.4502",
+        "longitude": "-84.4803"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 218,
+      "last_updated": "2020-03-21T14:48:28.904686Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Fayette, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.4893",
+        "longitude": "-94.8521"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 219,
+      "last_updated": "2020-03-21T14:48:28.915124Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Gregg, TX"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.2589",
+        "longitude": "-74.124"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 220,
+      "last_updated": "2020-03-21T14:48:28.924463Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Monmouth, NJ"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.0712",
+        "longitude": "-74.8649"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 221,
+      "last_updated": "2020-03-21T14:48:28.931941Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Burlington, NJ"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.9259",
+        "longitude": "-75.1196"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 222,
+      "last_updated": "2020-03-21T14:48:28.949639Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Camden, NJ"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.8568",
+        "longitude": "-74.1285"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 223,
+      "last_updated": "2020-03-21T14:48:28.960493Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Passaic, NJ"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.6976",
+        "longitude": "-74.2632"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 224,
+      "last_updated": "2020-03-21T14:48:28.966896Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Union, NJ"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.6553",
+        "longitude": "-106.8287"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 225,
+      "last_updated": "2020-03-21T14:48:28.974341Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Eagle, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.6956",
+        "longitude": "-105.5943"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 226,
+      "last_updated": "2020-03-21T14:48:28.987240Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Larimer, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.6203",
+        "longitude": "-104.3326"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 227,
+      "last_updated": "2020-03-21T14:48:28.996867Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Arapahoe, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.5458",
+        "longitude": "-106.9253"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 228,
+      "last_updated": "2020-03-21T14:48:29.023800Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Gunnison, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.9879",
+        "longitude": "-88.4016"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 229,
+      "last_updated": "2020-03-21T14:48:29.056396Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Kane, IL"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.0458",
+        "longitude": "-75.2479"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 230,
+      "last_updated": "2020-03-21T14:48:29.070756Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Monroe, PA"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.9526",
+        "longitude": "-75.1652"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 231,
+      "last_updated": "2020-03-21T14:48:29.078907Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Philadelphia, PA"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.8508",
+        "longitude": "-76.2859"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 232,
+      "last_updated": "2020-03-21T14:48:29.086564Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Norfolk, VA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.8816",
+        "longitude": "-77.091"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 233,
+      "last_updated": "2020-03-21T14:48:29.094021Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Arlington, VA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.2042",
+        "longitude": "-77.6078"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 234,
+      "last_updated": "2020-03-21T14:48:29.103962Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Spotsylvania, VA"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.0768",
+        "longitude": "-77.6536"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 235,
+      "last_updated": "2020-03-21T14:48:29.111602Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Loudoun, VA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.7849",
+        "longitude": "-76.8721"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 236,
+      "last_updated": "2020-03-21T14:48:29.120104Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Prince George's, MD"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.3912",
+        "longitude": "-95.4778"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 237,
+      "last_updated": "2020-03-21T14:48:29.265608Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Pottawattamie, IA"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.2465",
+        "longitude": "-80.607"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 238,
+      "last_updated": "2020-03-21T14:48:29.301627Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Camden, NC"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.0575",
+        "longitude": "-111.6661"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 239,
+      "last_updated": "2020-03-21T14:48:29.330795Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Pima, AZ"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.4277",
+        "longitude": "-85.355"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 240,
+      "last_updated": "2020-03-21T14:48:29.362393Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Noble, IN"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.8522",
+        "longitude": "-77.2865"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 241,
+      "last_updated": "2020-03-21T14:48:29.377824Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Adams, IN"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.0106",
+        "longitude": "-86.4997"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 242,
+      "last_updated": "2020-03-21T14:48:29.394918Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Boone, IN"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.0186",
+        "longitude": "-89.5498"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 243,
+      "last_updated": "2020-03-21T14:48:29.416286Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Dane, WI"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.7509",
+        "longitude": "-92.3814"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 244,
+      "last_updated": "2020-03-21T14:48:29.432105Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Pierce, WI"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.4339",
+        "longitude": "-81.6758"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 245,
+      "last_updated": "2020-03-21T14:48:29.452291Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Cuyahoga, OH"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.2603",
+        "longitude": "-111.9522"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 246,
+      "last_updated": "2020-03-21T14:48:29.484874Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Weber, UT"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.0279",
+        "longitude": "-73.135"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 247,
+      "last_updated": "2020-03-21T14:48:29.505450Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Bennington County, VT"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.8254",
+        "longitude": "-93.7842"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 248,
+      "last_updated": "2020-03-21T14:48:29.527076Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Carver County, MN"
+    },
+    {
+      "coordinates": {
+        "latitude": "26.8946",
+        "longitude": "-81.9098"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 249,
+      "last_updated": "2020-03-21T14:48:29.537588Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Charlotte County, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.2515",
+        "longitude": "-84.4803"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 250,
+      "last_updated": "2020-03-21T14:48:29.549533Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Cherokee County, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.1795",
+        "longitude": "-96.493"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 251,
+      "last_updated": "2020-03-21T14:48:29.559692Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Collin County, TX"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.1938",
+        "longitude": "-85.6435"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 252,
+      "last_updated": "2020-03-21T14:48:29.569839Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Jefferson County, KY"
+    },
+    {
+      "coordinates": {
+        "latitude": "29.6499",
+        "longitude": "-90.1121"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 253,
+      "last_updated": "2020-03-21T14:48:29.581534Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Jefferson Parish, LA"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.7909",
+        "longitude": "-121.8474"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 254,
+      "last_updated": "2020-03-21T14:48:29.600413Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Shasta County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.8606",
+        "longitude": "-81.9535"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 255,
+      "last_updated": "2020-03-21T14:48:29.634241Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Spartanburg County, SC"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.4333",
+        "longitude": "-84.3542"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 256,
+      "last_updated": "2020-03-21T14:48:29.641180Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Harrison County, KY"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.6699",
+        "longitude": "-91.5984"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 257,
+      "last_updated": "2020-03-21T14:48:29.647055Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Johnson County, IA"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.3118",
+        "longitude": "-73.1822"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 258,
+      "last_updated": "2020-03-21T14:48:29.655074Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Berkshire County, MA"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.1343",
+        "longitude": "-86.822"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 259,
+      "last_updated": "2020-03-21T14:48:29.661896Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Davidson County, TN"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.1261",
+        "longitude": "-123.2492"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 260,
+      "last_updated": "2020-03-21T14:48:29.670394Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Douglas County, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.9859",
+        "longitude": "-119.2321"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 261,
+      "last_updated": "2020-03-21T14:48:29.678230Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Fresno County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.5839",
+        "longitude": "-76.3637"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 262,
+      "last_updated": "2020-03-21T14:48:29.685964Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Harford County, MD"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.8065",
+        "longitude": "-86.5401"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 263,
+      "last_updated": "2020-03-21T14:48:29.693985Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Hendricks County, IN"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.7453",
+        "longitude": "-74.0535"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 264,
+      "last_updated": "2020-03-21T14:48:29.702152Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Hudson County, NJ"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.8454",
+        "longitude": "-94.8521"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 265,
+      "last_updated": "2020-03-21T14:48:29.709961Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Johnson County, KS"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.175",
+        "longitude": "-120.9319"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 266,
+      "last_updated": "2020-03-21T14:48:29.718340Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Kittitas County, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "27.4799",
+        "longitude": "-82.3452"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 267,
+      "last_updated": "2020-03-21T14:48:29.726652Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Manatee County, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.8446",
+        "longitude": "-122.5927"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 268,
+      "last_updated": "2020-03-21T14:48:29.735016Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Marion County, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "30.5773",
+        "longitude": "-86.6611"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 269,
+      "last_updated": "2020-03-21T14:48:29.743244Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Okaloosa County, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.0132",
+        "longitude": "-85.1479"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 270,
+      "last_updated": "2020-03-21T14:48:29.751288Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Polk County, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.9533",
+        "longitude": "-117.3961"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 271,
+      "last_updated": "2020-03-21T14:48:29.759395Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Riverside County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.1269",
+        "longitude": "-89.9253"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 272,
+      "last_updated": "2020-03-21T14:48:29.767940Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Shelby County, TN"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.6103",
+        "longitude": "-90.4125"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 273,
+      "last_updated": "2020-03-21T14:48:29.775977Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "St. Louis County, MO"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.9849",
+        "longitude": "-72.6151"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 274,
+      "last_updated": "2020-03-21T14:48:29.784267Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Suffolk County, NY"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.8586",
+        "longitude": "-74.3118"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 275,
+      "last_updated": "2020-03-21T14:48:29.792728Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Ulster County, NY"
+    },
+    {
+      "coordinates": {
+        "latitude": "29.028",
+        "longitude": "-81.0755"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 276,
+      "last_updated": "2020-03-21T14:48:29.800203Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Volusia County, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.9085",
+        "longitude": "-77.2405"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 277,
+      "last_updated": "2020-03-21T14:48:29.808671Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Fairfax County, VA"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.9931",
+        "longitude": "-71.0498"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 278,
+      "last_updated": "2020-03-21T14:48:29.815789Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Rockingham County, NH"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.9072",
+        "longitude": "-77.0369"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 279,
+      "last_updated": "2020-03-21T14:48:29.824380Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Washington, D.C."
+    },
+    {
+      "coordinates": {
+        "latitude": "40.229",
+        "longitude": "-75.3879"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 280,
+      "last_updated": "2020-03-21T14:48:29.832664Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Montgomery County, PA"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.6017",
+        "longitude": "-121.7195"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 281,
+      "last_updated": "2020-03-21T14:48:29.839814Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Alameda County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "26.1901",
+        "longitude": "-80.3659"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 282,
+      "last_updated": "2020-03-21T14:48:29.847416Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Broward County, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "26.663",
+        "longitude": "-81.9535"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 283,
+      "last_updated": "2020-03-21T14:48:29.856075Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Lee County, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.8162",
+        "longitude": "-111.2845"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 284,
+      "last_updated": "2020-03-21T14:48:29.864428Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Pinal County, AZ"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.1489",
+        "longitude": "-73.983"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 285,
+      "last_updated": "2020-03-21T14:48:29.872332Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Rockland County, NY"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.0324",
+        "longitude": "-73.936"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 286,
+      "last_updated": "2020-03-21T14:48:29.880518Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Saratoga County, NY"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.7957",
+        "longitude": "-79.7848"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 287,
+      "last_updated": "2020-03-21T14:48:29.888108Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Charleston County, SC"
+    },
+    {
+      "coordinates": {
+        "latitude": "45.7466",
+        "longitude": "-122.5194"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 288,
+      "last_updated": "2020-03-21T14:48:29.910226Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Clark County, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.8999",
+        "longitude": "-84.5641"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 289,
+      "last_updated": "2020-03-21T14:48:29.920733Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Cobb County, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.9629",
+        "longitude": "-112.0953"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 290,
+      "last_updated": "2020-03-21T14:48:29.940777Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Davis County, UT"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.9108",
+        "longitude": "-104.4723"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 291,
+      "last_updated": "2020-03-21T14:48:29.951844Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "El Paso County, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "21.307",
+        "longitude": "-157.8584"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 292,
+      "last_updated": "2020-03-21T14:48:29.962195Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Honolulu County, HI"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.3345",
+        "longitude": "-122.7647"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 293,
+      "last_updated": "2020-03-21T14:48:29.970471Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Jackson County, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.7425",
+        "longitude": "-123.304"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 294,
+      "last_updated": "2020-03-21T14:48:29.979948Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Jefferson County, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.3672",
+        "longitude": "-80.5883"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 295,
+      "last_updated": "2020-03-21T14:48:29.992429Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Kershaw County, SC"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.6953",
+        "longitude": "-121.6142"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 296,
+      "last_updated": "2020-03-21T14:48:30.009489Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Klamath County, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.2519",
+        "longitude": "-119.6963"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 297,
+      "last_updated": "2020-03-21T14:48:30.018322Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Madera County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.0676",
+        "longitude": "-122.1295"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 298,
+      "last_updated": "2020-03-21T14:48:30.026687Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Pierce County, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.1593",
+        "longitude": "-95.941"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 299,
+      "last_updated": "2020-03-21T14:48:30.034308Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Tulsa County, OK"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.2587",
+        "longitude": "-104.9389"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 300,
+      "last_updated": "2020-03-21T14:48:30.042064Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Douglas County, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.8882",
+        "longitude": "-71.4774"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 301,
+      "last_updated": "2020-03-21T14:48:30.049739Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Providence County, RI"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.7211",
+        "longitude": "-79.1781"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 302,
+      "last_updated": "2020-03-21T14:48:30.057295Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Chatham County, NC"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.9078",
+        "longitude": "-75.3879"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 303,
+      "last_updated": "2020-03-21T14:48:30.065453Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Delaware County, PA"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.3148",
+        "longitude": "-96.1951"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 304,
+      "last_updated": "2020-03-21T14:48:30.073070Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Douglas County, NE"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.0606",
+        "longitude": "-84.4803"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 305,
+      "last_updated": "2020-03-21T14:48:30.081482Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Fayette County, KY"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.8362",
+        "longitude": "-86.1752"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 306,
+      "last_updated": "2020-03-21T14:48:30.088718Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Marion County, IN"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.4672",
+        "longitude": "-71.2874"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 307,
+      "last_updated": "2020-03-21T14:48:30.096799Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Middlesex County, MA"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.6546",
+        "longitude": "-73.5594"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 308,
+      "last_updated": "2020-03-21T14:48:30.128541Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Nassau County, NY"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.9964",
+        "longitude": "-93.0616"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 309,
+      "last_updated": "2020-03-21T14:48:30.144237Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Ramsey County, MN"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.5608",
+        "longitude": "-119.6035"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 310,
+      "last_updated": "2020-03-21T14:48:30.151784Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Washoe County, NV"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.6739",
+        "longitude": "-75.2479"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 311,
+      "last_updated": "2020-03-21T14:48:30.160067Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Wayne County, PA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.7646",
+        "longitude": "-121.9018"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 312,
+      "last_updated": "2020-03-21T14:48:30.168268Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Yolo County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.3541",
+        "longitude": "-121.9552"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 313,
+      "last_updated": "2020-03-21T14:48:30.175660Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Santa Clara County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.0796",
+        "longitude": "-115.094"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 314,
+      "last_updated": "2020-03-21T14:48:30.182787Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Clark County, NV"
+    },
+    {
+      "coordinates": {
+        "latitude": "29.5693",
+        "longitude": "-95.8143"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 315,
+      "last_updated": "2020-03-21T14:48:30.190515Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Fort Bend County, TX"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.1981",
+        "longitude": "-119.3732"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 316,
+      "last_updated": "2020-03-21T14:48:30.197598Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Grant County, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "30.769",
+        "longitude": "-86.9824"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 317,
+      "last_updated": "2020-03-21T14:48:30.205660Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Santa Rosa County, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.9179",
+        "longitude": "-86.8622"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 318,
+      "last_updated": "2020-03-21T14:48:30.215842Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Williamson County, TN"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.7128",
+        "longitude": "-74.006"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 319,
+      "last_updated": "2020-03-21T14:48:30.223744Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "New York County, NY"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.1547",
+        "longitude": "-77.2405"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 320,
+      "last_updated": "2020-03-21T14:48:30.231322Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Montgomery County, MD"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.3601",
+        "longitude": "-71.0589"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 321,
+      "last_updated": "2020-03-21T14:48:30.239133Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Suffolk County, MA"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.7392",
+        "longitude": "-104.9903"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 322,
+      "last_updated": "2020-03-21T14:48:30.246002Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Denver County, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.5912",
+        "longitude": "-106.064"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 323,
+      "last_updated": "2020-03-21T14:48:30.259234Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Summit County, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.9263",
+        "longitude": "-74.077"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 324,
+      "last_updated": "2020-03-21T14:48:30.269913Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Bergen County, NJ"
+    },
+    {
+      "coordinates": {
+        "latitude": "29.7752",
+        "longitude": "-95.3103"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 325,
+      "last_updated": "2020-03-21T14:48:30.284759Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Harris County, TX"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.7749",
+        "longitude": "-122.4194"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 326,
+      "last_updated": "2020-03-21T14:48:30.291556Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "San Francisco County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.8534",
+        "longitude": "-121.9018"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 327,
+      "last_updated": "2020-03-21T14:48:30.322974Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Contra Costa County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.7879",
+        "longitude": "-117.8531"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 328,
+      "last_updated": "2020-03-21T14:48:30.328818Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Orange County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.1767",
+        "longitude": "-71.1449"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 329,
+      "last_updated": "2020-03-21T14:48:30.348446Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Norfolk County, MA"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.2918",
+        "longitude": "-112.4291"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 330,
+      "last_updated": "2020-03-21T14:48:30.363000Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Maricopa County, AZ"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.8032",
+        "longitude": "-78.5661"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 331,
+      "last_updated": "2020-03-21T14:48:30.374981Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Wake County, NC"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.122",
+        "longitude": "-73.7949"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 332,
+      "last_updated": "2020-03-21T14:48:30.383605Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Westchester County, NY"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.9088",
+        "longitude": "-71.826"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 333,
+      "last_updated": "2020-03-21T14:48:30.394964Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Grafton County, NH"
+    },
+    {
+      "coordinates": {
+        "latitude": "27.9904",
+        "longitude": "-82.3018"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 334,
+      "last_updated": "2020-03-21T14:48:30.403936Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Hillsborough, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.0916",
+        "longitude": "-120.8039"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 335,
+      "last_updated": "2020-03-21T14:48:30.414588Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Placer County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.563",
+        "longitude": "-122.3255"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 336,
+      "last_updated": "2020-03-21T14:48:30.421562Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "San Mateo, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.578",
+        "longitude": "-122.9888"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 337,
+      "last_updated": "2020-03-21T14:48:30.430812Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Sonoma County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "45.775",
+        "longitude": "-118.7606"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 338,
+      "last_updated": "2020-03-21T14:48:30.437246Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Umatilla, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.8034",
+        "longitude": "-84.3963"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 339,
+      "last_updated": "2020-03-21T14:48:30.443823Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Fulton County, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "45.547",
+        "longitude": "-123.1386"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 340,
+      "last_updated": "2020-03-21T14:48:30.450169Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Washington County, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "48.033",
+        "longitude": "-121.8339"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 341,
+      "last_updated": "2020-03-21T14:48:30.458513Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Snohomish County, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.745",
+        "longitude": "-123.8695"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 342,
+      "last_updated": "2020-03-21T14:48:30.467152Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Humboldt County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.4747",
+        "longitude": "-121.3542"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 343,
+      "last_updated": "2020-03-21T14:48:30.473693Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Sacramento County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.7157",
+        "longitude": "-117.1611"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 344,
+      "last_updated": "2020-03-21T14:48:30.480854Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "San Diego County, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.5761",
+        "longitude": "-120.9876"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 345,
+      "last_updated": "2020-03-21T14:48:30.487847Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "San Benito, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.0522",
+        "longitude": "-118.2437"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 346,
+      "last_updated": "2020-03-21T14:48:30.495280Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Los Angeles, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "47.6062",
+        "longitude": "-122.3321"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 347,
+      "last_updated": "2020-03-21T14:48:30.501747Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "King County, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.7377",
+        "longitude": "-87.6976"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 348,
+      "last_updated": "2020-03-21T14:48:30.507558Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Cook County, IL"
+    },
+    {
+      "coordinates": {
+        "latitude": "48.4242",
+        "longitude": "-121.7114"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 349,
+      "last_updated": "2020-03-21T14:48:30.514458Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Skagit, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "46.8646",
+        "longitude": "-122.7696"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 350,
+      "last_updated": "2020-03-21T14:48:30.521784Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Thurston, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "48.1976",
+        "longitude": "-122.5795"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 351,
+      "last_updated": "2020-03-21T14:48:30.530007Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Island, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "48.8787",
+        "longitude": "-121.9719"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 352,
+      "last_updated": "2020-03-21T14:48:30.536041Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Whatcom, WA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.0834",
+        "longitude": "-122.7633"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 353,
+      "last_updated": "2020-03-21T14:48:30.542667Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Marin, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "38.196",
+        "longitude": "-120.6805"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 354,
+      "last_updated": "2020-03-21T14:48:30.550096Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Calaveras, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.5091",
+        "longitude": "-120.9876"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 355,
+      "last_updated": "2020-03-21T14:48:30.557283Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Stanislaus, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.6066",
+        "longitude": "-120.189"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 356,
+      "last_updated": "2020-03-21T14:48:30.563667Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "San Joaquin, CA"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.632",
+        "longitude": "-70.7829"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 357,
+      "last_updated": "2020-03-21T14:48:30.569345Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Essex, MA"
+    },
+    {
+      "coordinates": {
+        "latitude": "30.7917",
+        "longitude": "-82.0843"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 358,
+      "last_updated": "2020-03-21T14:48:30.576612Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Charlton, GA"
+    },
+    {
+      "coordinates": {
+        "latitude": "26.07",
+        "longitude": "-81.4279"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 359,
+      "last_updated": "2020-03-21T14:48:30.583928Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Collier, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "27.8764",
+        "longitude": "-82.7779"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 360,
+      "last_updated": "2020-03-21T14:48:30.590533Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Pinellas, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "29.7938",
+        "longitude": "-82.4944"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 361,
+      "last_updated": "2020-03-21T14:48:30.596706Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Alachua, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "30.5927",
+        "longitude": "-81.8224"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 362,
+      "last_updated": "2020-03-21T14:48:30.604055Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Nassau, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "28.3232",
+        "longitude": "-82.4319"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 363,
+      "last_updated": "2020-03-21T14:48:30.611325Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Pasco, FL"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.7767",
+        "longitude": "-96.797"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 364,
+      "last_updated": "2020-03-21T14:48:30.618384Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Dallas, TX"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.7732",
+        "longitude": "-97.3517"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 365,
+      "last_updated": "2020-03-21T14:48:30.624702Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Tarrant, TX"
+    },
+    {
+      "coordinates": {
+        "latitude": "30.3883",
+        "longitude": "-95.6963"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 366,
+      "last_updated": "2020-03-21T14:48:30.630442Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Montgomery, TX"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.5726",
+        "longitude": "-74.4927"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 367,
+      "last_updated": "2020-03-21T14:48:30.638260Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Middlesex, NJ"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.58",
+        "longitude": "-105.2663"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 368,
+      "last_updated": "2020-03-21T14:48:30.646098Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Jefferson, CO"
+    },
+    {
+      "coordinates": {
+        "latitude": "45.5146",
+        "longitude": "-122.5863"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 369,
+      "last_updated": "2020-03-21T14:48:30.653680Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Multnomah, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.9267",
+        "longitude": "-123.4919"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 370,
+      "last_updated": "2020-03-21T14:48:30.678829Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Polk, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.8325",
+        "longitude": "-121.2617"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 371,
+      "last_updated": "2020-03-21T14:48:30.687558Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Deschutes, OR"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.3334",
+        "longitude": "-88.2668"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 372,
+      "last_updated": "2020-03-21T14:48:30.697037Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "McHenry, IL"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.3689",
+        "longitude": "-87.8272"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 373,
+      "last_updated": "2020-03-21T14:48:30.705436Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Lake, IL"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.4108",
+        "longitude": "-75.2479"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 374,
+      "last_updated": "2020-03-21T14:48:30.714773Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Bucks, PA"
+    },
+    {
+      "coordinates": {
+        "latitude": "37.7772",
+        "longitude": "-77.5161"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 375,
+      "last_updated": "2020-03-21T14:48:30.723209Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Hanover, VA"
+    },
+    {
+      "coordinates": {
+        "latitude": "34.7253",
+        "longitude": "-80.6771"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 376,
+      "last_updated": "2020-03-21T14:48:30.731503Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Lancaster, SC"
+    },
+    {
+      "coordinates": {
+        "latitude": "36.4933",
+        "longitude": "-82.3452"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 377,
+      "last_updated": "2020-03-21T14:48:30.740316Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Sullivan, TN"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.4638",
+        "longitude": "-86.1345"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 378,
+      "last_updated": "2020-03-21T14:48:30.748846Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Johnson, IN"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.4483",
+        "longitude": "-86.1345"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 379,
+      "last_updated": "2020-03-21T14:48:30.757230Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Howard, IN"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.6228",
+        "longitude": "-86.3377"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 380,
+      "last_updated": "2020-03-21T14:48:30.765708Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "St. Joseph, IN"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.6712",
+        "longitude": "-97.8722"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 381,
+      "last_updated": "2020-03-21T14:48:30.774234Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Knox, NE"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.8685",
+        "longitude": "-81.2519"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 382,
+      "last_updated": "2020-03-21T14:48:30.782888Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Stark, OH"
+    },
+    {
+      "coordinates": {
+        "latitude": "45.3293",
+        "longitude": "-93.2197"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 383,
+      "last_updated": "2020-03-21T14:48:30.791045Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Anoka, MN"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.9952",
+        "longitude": "-92.3814"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 384,
+      "last_updated": "2020-03-21T14:48:30.799315Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Olmsted, MN"
+    },
+    {
+      "coordinates": {
+        "latitude": "40.8298",
+        "longitude": "-110.9984"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 385,
+      "last_updated": "2020-03-21T14:48:30.807481Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Summit, UT"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.256",
+        "longitude": "-73.3709"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 386,
+      "last_updated": "2020-03-21T14:48:30.816065Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Fairfield, CT"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.7866",
+        "longitude": "-73.2765"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 387,
+      "last_updated": "2020-03-21T14:48:30.824427Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Litchfield, CT"
+    },
+    {
+      "coordinates": {
+        "latitude": "29.9511",
+        "longitude": "-90.0715"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 388,
+      "last_updated": "2020-03-21T14:48:30.832724Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Orleans, LA"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.8901",
+        "longitude": "-102.2548"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 389,
+      "last_updated": "2020-03-21T14:48:30.841030Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Pennington, SD"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.4797",
+        "longitude": "-98.2213"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 390,
+      "last_updated": "2020-03-21T14:48:30.849368Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Beadle, SD"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.0985",
+        "longitude": "-98.3965"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 391,
+      "last_updated": "2020-03-21T14:48:30.857803Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Charles Mix, SD"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.7242",
+        "longitude": "-98.2213"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 392,
+      "last_updated": "2020-03-21T14:48:30.866376Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Davison, SD"
+    },
+    {
+      "coordinates": {
+        "latitude": "43.6632",
+        "longitude": "-96.8351"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 393,
+      "last_updated": "2020-03-21T14:48:30.874871Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Minnehaha, SD"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.9815",
+        "longitude": "-97.8722"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 394,
+      "last_updated": "2020-03-21T14:48:30.883446Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Bon Homme, SD"
+    },
+    {
+      "coordinates": {
+        "latitude": "33.8837",
+        "longitude": "-106.7235"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 395,
+      "last_updated": "2020-03-21T14:48:30.891741Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Socorro, NM"
+    },
+    {
+      "coordinates": {
+        "latitude": "35.0178",
+        "longitude": "-106.6291"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 396,
+      "last_updated": "2020-03-21T14:48:30.898935Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Bernalillo, NM"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.5922",
+        "longitude": "-83.3362"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 397,
+      "last_updated": "2020-03-21T14:48:30.905343Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Oakland, MI"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.2791",
+        "longitude": "-83.3362"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 398,
+      "last_updated": "2020-03-21T14:48:30.912424Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Wayne, MI"
+    },
+    {
+      "coordinates": {
+        "latitude": "39.5393",
+        "longitude": "-75.6674"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 399,
+      "last_updated": "2020-03-21T14:48:30.938869Z",
+      "latest": {
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "New Castle, DE"
+    },
+    {
+      "coordinates": {
+        "latitude": "22",
+        "longitude": "-80"
+      },
+      "country": "Cuba",
+      "country_code": "CU",
+      "id": 400,
+      "last_updated": "2020-03-21T14:48:30.956630Z",
+      "latest": {
+        "confirmed": 16,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "5",
+        "longitude": "-58.75"
+      },
+      "country": "Guyana",
+      "country_code": "GY",
+      "id": 401,
+      "last_updated": "2020-03-21T14:48:30.965652Z",
+      "latest": {
+        "confirmed": 7,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-35.4735",
+        "longitude": "149.0124"
+      },
+      "country": "Australia",
+      "country_code": "AU",
+      "id": 402,
+      "last_updated": "2020-03-21T14:48:30.973268Z",
+      "latest": {
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Australian Capital Territory"
+    },
+    {
+      "coordinates": {
+        "latitude": "55.3781",
+        "longitude": "-3.436"
+      },
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "id": 403,
+      "last_updated": "2020-03-21T14:48:30.980168Z",
+      "latest": {
+        "confirmed": 3983,
+        "deaths": 177,
+        "recovered": 65
+      },
+      "province": "United Kingdom"
+    },
+    {
+      "coordinates": {
+        "latitude": "48.0196",
+        "longitude": "66.9237"
+      },
+      "country": "Kazakhstan",
+      "country_code": "KZ",
+      "id": 404,
+      "last_updated": "2020-03-21T14:48:30.987289Z",
+      "latest": {
+        "confirmed": 49,
+        "deaths": 3,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-17.6797",
+        "longitude": "149.4068"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 405,
+      "last_updated": "2020-03-21T14:48:30.993866Z",
+      "latest": {
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "French Polynesia"
+    },
+    {
+      "coordinates": {
+        "latitude": "53.7609",
+        "longitude": "-98.8139"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 406,
+      "last_updated": "2020-03-21T14:48:31.001666Z",
+      "latest": {
+        "confirmed": 17,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Manitoba"
+    },
+    {
+      "coordinates": {
+        "latitude": "52.9399",
+        "longitude": "-106.4509"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 407,
+      "last_updated": "2020-03-21T14:48:31.010738Z",
+      "latest": {
+        "confirmed": 20,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Saskatchewan"
+    },
+    {
+      "coordinates": {
+        "latitude": "9.145",
+        "longitude": "40.4897"
+      },
+      "country": "Ethiopia",
+      "country_code": "ET",
+      "id": 408,
+      "last_updated": "2020-03-21T14:48:31.018336Z",
+      "latest": {
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "12.8628",
+        "longitude": "30.2176"
+      },
+      "country": "Sudan",
+      "country_code": "SD",
+      "id": 409,
+      "last_updated": "2020-03-21T14:48:31.024882Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "9.9456",
+        "longitude": "-9.6966"
+      },
+      "country": "Guinea",
+      "country_code": "GN",
+      "id": 410,
+      "last_updated": "2020-03-21T14:48:31.031840Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "37.6489",
+        "longitude": "-122.6655"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 411,
+      "last_updated": "2020-03-21T14:48:31.038266Z",
+      "latest": {
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Grand Princess"
+    },
+    {
+      "coordinates": {
+        "latitude": "-0.0236",
+        "longitude": "37.9062"
+      },
+      "country": "Kenya",
+      "country_code": "KE",
+      "id": 412,
+      "last_updated": "2020-03-21T14:48:31.045220Z",
+      "latest": {
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "17.0608",
+        "longitude": "-61.7964"
+      },
+      "country": "Antigua and Barbuda",
+      "country_code": "AG",
+      "id": 413,
+      "last_updated": "2020-03-21T14:48:31.052712Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "32.3182",
+        "longitude": "-86.9023"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 414,
+      "last_updated": "2020-03-21T14:48:31.058954Z",
+      "latest": {
+        "confirmed": 83,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Alabama"
+    },
+    {
+      "coordinates": {
+        "latitude": "-32.5228",
+        "longitude": "-55.7658"
+      },
+      "country": "Uruguay",
+      "country_code": "UY",
+      "id": 415,
+      "last_updated": "2020-03-21T14:48:31.066106Z",
+      "latest": {
+        "confirmed": 94,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "7.9465",
+        "longitude": "-1.0232"
+      },
+      "country": "Ghana",
+      "country_code": "GH",
+      "id": 416,
+      "last_updated": "2020-03-21T14:48:31.073508Z",
+      "latest": {
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "18.2208",
+        "longitude": "-66.5901"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 417,
+      "last_updated": "2020-03-21T14:48:31.080162Z",
+      "latest": {
+        "confirmed": 14,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Puerto Rico"
+    },
+    {
+      "coordinates": {
+        "latitude": "-22.9576",
+        "longitude": "18.4904"
+      },
+      "country": "Namibia",
+      "country_code": "NA",
+      "id": 418,
+      "last_updated": "2020-03-21T14:48:31.086983Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-4.6796",
+        "longitude": "55.492"
+      },
+      "country": "Seychelles",
+      "country_code": "SC",
+      "id": 419,
+      "last_updated": "2020-03-21T14:48:31.093864Z",
+      "latest": {
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "10.6918",
+        "longitude": "-61.2225"
+      },
+      "country": "Trinidad and Tobago",
+      "country_code": "TT",
+      "id": 420,
+      "last_updated": "2020-03-21T14:48:31.100615Z",
+      "latest": {
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "6.4238",
+        "longitude": "-66.5897"
+      },
+      "country": "Venezuela",
+      "country_code": "VE",
+      "id": 421,
+      "last_updated": "2020-03-21T14:48:31.107432Z",
+      "latest": {
+        "confirmed": 42,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-26.5225",
+        "longitude": "31.4659"
+      },
+      "country": "Eswatini",
+      "country_code": "SZ",
+      "id": 422,
+      "last_updated": "2020-03-21T14:48:31.114288Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-0.8037",
+        "longitude": "11.6094"
+      },
+      "country": "Gabon",
+      "country_code": "GA",
+      "id": 423,
+      "last_updated": "2020-03-21T14:48:31.120697Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "15.7835",
+        "longitude": "-90.2308"
+      },
+      "country": "Guatemala",
+      "country_code": "GT",
+      "id": 424,
+      "last_updated": "2020-03-21T14:48:31.127420Z",
+      "latest": {
+        "confirmed": 12,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "21.0079",
+        "longitude": "10.9408"
+      },
+      "country": "Mauritania",
+      "country_code": "MR",
+      "id": 425,
+      "last_updated": "2020-03-21T14:48:31.134254Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-1.9403",
+        "longitude": "29.8739"
+      },
+      "country": "Rwanda",
+      "country_code": "RW",
+      "id": 426,
+      "last_updated": "2020-03-21T14:48:31.141113Z",
+      "latest": {
+        "confirmed": 17,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "13.9094",
+        "longitude": "-60.9789"
+      },
+      "country": "Saint Lucia",
+      "country_code": "LC",
+      "id": 427,
+      "last_updated": "2020-03-21T14:48:31.147769Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "12.9843",
+        "longitude": "-61.2872"
+      },
+      "country": "Saint Vincent and the Grenadines",
+      "country_code": "VC",
+      "id": 428,
+      "last_updated": "2020-03-21T14:48:31.154507Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "3.9193",
+        "longitude": "-56.0278"
+      },
+      "country": "Suriname",
+      "country_code": "SR",
+      "id": 429,
+      "last_updated": "2020-03-21T14:48:31.161484Z",
+      "latest": {
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "3.9339",
+        "longitude": "-53.1258"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 430,
+      "last_updated": "2020-03-21T14:48:31.168373Z",
+      "latest": {
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "French Guiana"
+    },
+    {
+      "coordinates": {
+        "latitude": "13.4443",
+        "longitude": "144.7937"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 431,
+      "last_updated": "2020-03-21T14:48:31.175330Z",
+      "latest": {
+        "confirmed": 14,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Guam"
+    },
+    {
+      "coordinates": {
+        "latitude": "42.6026",
+        "longitude": "20.903"
+      },
+      "country": "Kosovo",
+      "country_code": "XK",
+      "id": 432,
+      "last_updated": "2020-03-21T14:48:31.181715Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "53.1355",
+        "longitude": "-57.6604"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 433,
+      "last_updated": "2020-03-21T14:48:31.187986Z",
+      "latest": {
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "coordinates": {
+        "latitude": "46.5107",
+        "longitude": "-63.4168"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 434,
+      "last_updated": "2020-03-21T14:48:31.194102Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Prince Edward Island"
+    },
+    {
+      "coordinates": {
+        "latitude": "6.6111",
+        "longitude": "20.9394"
+      },
+      "country": "Central African Republic",
+      "country_code": "CF",
+      "id": 435,
+      "last_updated": "2020-03-21T14:48:31.200167Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-4.0383",
+        "longitude": "21.7587"
+      },
+      "country": "Congo (Brazzaville)",
+      "country_code": "CG",
+      "id": 436,
+      "last_updated": "2020-03-21T14:48:31.206273Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "1.5",
+        "longitude": "10"
+      },
+      "country": "Equatorial Guinea",
+      "country_code": "GQ",
+      "id": 437,
+      "last_updated": "2020-03-21T14:48:31.212629Z",
+      "latest": {
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-12.8275",
+        "longitude": "45.1662"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 438,
+      "last_updated": "2020-03-21T14:48:31.220813Z",
+      "latest": {
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Mayotte"
+    },
+    {
+      "coordinates": {
+        "latitude": "41.3775",
+        "longitude": "64.5853"
+      },
+      "country": "Uzbekistan",
+      "country_code": "UZ",
+      "id": 439,
+      "last_updated": "2020-03-21T14:48:31.228640Z",
+      "latest": {
+        "confirmed": 33,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "52.1326",
+        "longitude": "5.2913"
+      },
+      "country": "Netherlands",
+      "country_code": "NL",
+      "id": 440,
+      "last_updated": "2020-03-21T14:48:31.237907Z",
+      "latest": {
+        "confirmed": 2994,
+        "deaths": 106,
+        "recovered": 2
+      },
+      "province": "Netherlands"
+    },
+    {
+      "coordinates": {
+        "latitude": "44.682",
+        "longitude": "-63.7443"
+      },
+      "country": "Canada",
+      "country_code": "CA",
+      "id": 441,
+      "last_updated": "2020-03-21T14:48:31.245320Z",
+      "latest": {
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Nova Scotia"
+    },
+    {
+      "coordinates": {
+        "latitude": "16.25",
+        "longitude": "-61.5833"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 442,
+      "last_updated": "2020-03-21T14:48:31.251974Z",
+      "latest": {
+        "confirmed": 45,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Guadeloupe"
+    },
+    {
+      "coordinates": {
+        "latitude": "9.3077",
+        "longitude": "2.3158"
+      },
+      "country": "Benin",
+      "country_code": "BJ",
+      "id": 443,
+      "last_updated": "2020-03-21T14:48:31.261777Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "6.4281",
+        "longitude": "-9.4295"
+      },
+      "country": "Liberia",
+      "country_code": "LR",
+      "id": 444,
+      "last_updated": "2020-03-21T14:48:31.281379Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "12.1696",
+        "longitude": "-68.99"
+      },
+      "country": "Netherlands",
+      "country_code": "NL",
+      "id": 445,
+      "last_updated": "2020-03-21T14:48:31.302015Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Curacao"
+    },
+    {
+      "coordinates": {
+        "latitude": "5.1521",
+        "longitude": "46.1996"
+      },
+      "country": "Somalia",
+      "country_code": "SO",
+      "id": 446,
+      "last_updated": "2020-03-21T14:48:31.318668Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-6.369",
+        "longitude": "34.8888"
+      },
+      "country": "Tanzania",
+      "country_code": "TZ",
+      "id": 447,
+      "last_updated": "2020-03-21T14:48:31.325724Z",
+      "latest": {
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "18.3358",
+        "longitude": "-64.8963"
+      },
+      "country": "US",
+      "country_code": "US",
+      "id": 448,
+      "last_updated": "2020-03-21T14:48:31.332683Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Virgin Islands"
+    },
+    {
+      "coordinates": {
+        "latitude": "19.3133",
+        "longitude": "-81.2546"
+      },
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "id": 449,
+      "last_updated": "2020-03-21T14:48:31.339861Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 1,
+        "recovered": 0
+      },
+      "province": "Cayman Islands"
+    },
+    {
+      "coordinates": {
+        "latitude": "-21.1351",
+        "longitude": "55.2471"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 450,
+      "last_updated": "2020-03-21T14:48:31.346840Z",
+      "latest": {
+        "confirmed": 28,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Reunion"
+    },
+    {
+      "coordinates": {
+        "latitude": "13.1939",
+        "longitude": "-59.5432"
+      },
+      "country": "Barbados",
+      "country_code": "BB",
+      "id": 451,
+      "last_updated": "2020-03-21T14:48:31.353774Z",
+      "latest": {
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "42.5",
+        "longitude": "19.3"
+      },
+      "country": "Montenegro",
+      "country_code": "ME",
+      "id": 452,
+      "last_updated": "2020-03-21T14:48:31.360668Z",
+      "latest": {
+        "confirmed": 14,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "41.2044",
+        "longitude": "74.7661"
+      },
+      "country": "Kyrgyzstan",
+      "country_code": "KG",
+      "id": 453,
+      "last_updated": "2020-03-21T14:48:31.367844Z",
+      "latest": {
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-20.2",
+        "longitude": "57.5"
+      },
+      "country": "Mauritius",
+      "country_code": "MU",
+      "id": 454,
+      "last_updated": "2020-03-21T14:48:31.374852Z",
+      "latest": {
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "12.5186",
+        "longitude": "-70.0358"
+      },
+      "country": "Netherlands",
+      "country_code": "NL",
+      "id": 455,
+      "last_updated": "2020-03-21T14:48:31.381901Z",
+      "latest": {
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Aruba"
+    },
+    {
+      "coordinates": {
+        "latitude": "-15.4167",
+        "longitude": "28.2833"
+      },
+      "country": "Zambia",
+      "country_code": "ZM",
+      "id": 456,
+      "last_updated": "2020-03-21T14:48:31.388742Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "11.8251",
+        "longitude": "42.5903"
+      },
+      "country": "Djibouti",
+      "country_code": "DJ",
+      "id": 457,
+      "last_updated": "2020-03-21T14:48:31.395906Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "13.4432",
+        "longitude": "-15.3101"
+      },
+      "country": "Gambia, The",
+      "country_code": "GM",
+      "id": 458,
+      "last_updated": "2020-03-21T14:48:31.402776Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "16.7425",
+        "longitude": "-62.1874"
+      },
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "id": 459,
+      "last_updated": "2020-03-21T14:48:31.409620Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Montserrat"
+    },
+    {
+      "coordinates": {
+        "latitude": "25.0343",
+        "longitude": "-77.3963"
+      },
+      "country": "Bahamas, The",
+      "country_code": "BS",
+      "id": 460,
+      "last_updated": "2020-03-21T14:48:31.416821Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "71.7069",
+        "longitude": "-42.6043"
+      },
+      "country": "Denmark",
+      "country_code": "DK",
+      "id": 461,
+      "last_updated": "2020-03-21T14:48:31.420888Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Greenland"
+    },
+    {
+      "coordinates": {
+        "latitude": "-20.9043",
+        "longitude": "165.618"
+      },
+      "country": "France",
+      "country_code": "FR",
+      "id": 462,
+      "last_updated": "2020-03-21T14:48:31.425534Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "New Caledonia"
+    },
+    {
+      "coordinates": {
+        "latitude": "32.3078",
+        "longitude": "-64.7505"
+      },
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "id": 463,
+      "last_updated": "2020-03-21T14:48:31.429366Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Bermuda"
+    },
+    {
+      "coordinates": {
+        "latitude": "15.4542",
+        "longitude": "18.7322"
+      },
+      "country": "Chad",
+      "country_code": "TD",
+      "id": 464,
+      "last_updated": "2020-03-21T14:48:31.433388Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "13.7942",
+        "longitude": "-88.8965"
+      },
+      "country": "El Salvador",
+      "country_code": "SV",
+      "id": 465,
+      "last_updated": "2020-03-21T14:48:31.437116Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-17.7134",
+        "longitude": "178.065"
+      },
+      "country": "Fiji",
+      "country_code": "FJ",
+      "id": 466,
+      "last_updated": "2020-03-21T14:48:31.440894Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "12.8654",
+        "longitude": "-85.2072"
+      },
+      "country": "Nicaragua",
+      "country_code": "NI",
+      "id": 467,
+      "last_updated": "2020-03-21T14:48:31.444647Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-18.7669",
+        "longitude": "46.8691"
+      },
+      "country": "Madagascar",
+      "country_code": "MG",
+      "id": 468,
+      "last_updated": "2020-03-21T14:48:31.448467Z",
+      "latest": {
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "18.9712",
+        "longitude": "-72.2852"
+      },
+      "country": "Haiti",
+      "country_code": "HT",
+      "id": 469,
+      "last_updated": "2020-03-21T14:48:31.452254Z",
+      "latest": {
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-11.2027",
+        "longitude": "17.8739"
+      },
+      "country": "Angola",
+      "country_code": "AO",
+      "id": 470,
+      "last_updated": "2020-03-21T14:48:31.456041Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "16.5388",
+        "longitude": "-23.0418"
+      },
+      "country": "Cabo Verde",
+      "country_code": "CV",
+      "id": 471,
+      "last_updated": "2020-03-21T14:48:31.460687Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "18.0425",
+        "longitude": "-63.0548"
+      },
+      "country": "Netherlands",
+      "country_code": "NL",
+      "id": 472,
+      "last_updated": "2020-03-21T14:48:31.467681Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Sint Maarten"
+    },
+    {
+      "coordinates": {
+        "latitude": "17.6078",
+        "longitude": "8.0817"
+      },
+      "country": "Niger",
+      "country_code": "NE",
+      "id": 473,
+      "last_updated": "2020-03-21T14:48:31.474699Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "-6.315",
+        "longitude": "143.9555"
+      },
+      "country": "Papua New Guinea",
+      "country_code": "PG",
+      "id": 474,
+      "last_updated": "2020-03-21T14:48:31.481994Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    },
+    {
+      "coordinates": {
+        "latitude": "54.2361",
+        "longitude": "-4.5481"
+      },
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "id": 475,
+      "last_updated": "2020-03-21T14:48:31.488931Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": "Isle of Man"
+    },
+    {
+      "coordinates": {
+        "latitude": "-20",
+        "longitude": "30"
+      },
+      "country": "Zimbabwe",
+      "country_code": "ZW",
+      "id": 476,
+      "last_updated": "2020-03-21T14:48:31.495952Z",
+      "latest": {
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "province": ""
+    }
+  ]
+}
