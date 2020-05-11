@@ -1,3 +1,9 @@
+### NOTE! ###
+###
+### This pubspec.yaml file is for EPISODES 1-6 only!
+###
+### For EPISODES 7+ there is an individual pubspec.yaml file in each episode folder.
+
 name: i_am_rick
 description: I am Rick Grimes.
 
