@@ -30,6 +30,10 @@
 
 ![I Am Rick (Episode 7)](screenshots/episode_7.png)
 
+- **Episode 8**: Rick’s Decentralized Exchange. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-8-ricks-decentralized-exchange-3c5326cb8e2e) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/tree/master/Episode%208)
+
+![I Am Rick (Episode 8)](screenshots/episode_8.png)
+
 - **Bonus**: Setting up Flutter on macOS Catalina. [[Medium story]](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
 ![Setting up Flutter on macOS Catalina](screenshots/setting_up_flutter.jpg)
