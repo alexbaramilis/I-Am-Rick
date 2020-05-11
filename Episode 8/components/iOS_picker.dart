@@ -27,11 +27,13 @@ class IOSPicker extends StatelessWidget {
       );
     }
     return CupertinoPicker(
-      itemExtent: 26.0,
+      scrollController: FixedExtentScrollController(
+          initialItem: kTradingPairs.indexOf(selectedTradingPair)),
       children: pickerItems,
       onSelectedItemChanged: (selectedItemIndex) {
         onPickerChanged(selectedItemIndex);
       },
+      itemExtent: 26.0,
       backgroundColor: kColourBackgroundDark,
     );
   }
