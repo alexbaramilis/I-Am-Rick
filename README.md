@@ -26,6 +26,10 @@
 
 ![I Am Rick (Episode 6)](screenshots/episode_6.png)
 
+- **Episode 7**: Coronavirus Tracker. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-7-coronavirus-tracker-83f977187aad) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/tree/master/Episode%207)
+
+![I Am Rick (Episode 7)](screenshots/episode_7.png)
+
 - **Bonus**: Setting up Flutter on macOS Catalina. [[Medium story]](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
 ![Setting up Flutter on macOS Catalina](screenshots/setting_up_flutter.jpg)
