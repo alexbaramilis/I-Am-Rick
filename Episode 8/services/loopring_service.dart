@@ -6,6 +6,19 @@ import 'package:iamrick/models/most_recent_trade.dart';
 class LoopringService {
   final baseUrl = 'https://api.loopring.io/api/v2/';
 
+  Future<MostRecentTrade> getMostRecentTrade({String tradingPair}) async {
+    String limit = '1';
+
+    final response =
+        await http.get(baseUrl + 'trade?market=$tradingPair&limit=$limit');
+
+    if (response.statusCode == 200) {
+      return MostRecentTrade.fromJSON(json: jsonDecode(response.body));
+    } else {
+      throw Exception('Failed to load most recent trade.');
+    }
+  }
+
   Future<CandlestickSeries> getCandlestickData({String tradingPair}) async {
     String interval = '1d';
     int startTime =
@@ -20,19 +33,6 @@ class LoopringService {
       return CandlestickSeries.fromJson(json: jsonDecode(response.body));
     } else {
       throw Exception('Failed to load candlestick data.');
-    }
-  }
-
-  Future<MostRecentTrade> getMostRecentTrade({String tradingPair}) async {
-    String limit = '1';
-
-    final response =
-        await http.get(baseUrl + 'trade?market=$tradingPair&limit=$limit');
-
-    if (response.statusCode == 200) {
-      return MostRecentTrade.fromJSON(json: jsonDecode(response.body));
-    } else {
-      throw Exception('Failed to load most recent trade.');
     }
   }
 }
