@@ -38,7 +38,7 @@ class _RecordingsStreamState extends State<RecordingsStream> {
           .snapshots(),
       builder: (context, snapshot) {
         if (snapshot.hasData) {
-          List<Widget> rows = [];
+          List<RecordingRow> rows = [];
           for (var document in snapshot.data.documents) {
             rows.add(
               RecordingRow(

@@ -12,8 +12,6 @@ class SignInScreen extends StatefulWidget {
 }
 
 class _SignInScreenState extends State<SignInScreen> {
-  final _auth = FirebaseAuth.instance;
-
   @override
   Widget build(BuildContext context) {
     return AuthForm(
@@ -30,7 +28,8 @@ class _SignInScreenState extends State<SignInScreen> {
           },
         );
         try {
-          final signedInUser = await _auth.signInWithEmailAndPassword(
+          final signedInUser =
+              await FirebaseAuth.instance.signInWithEmailAndPassword(
             email: email,
             password: password,
           );

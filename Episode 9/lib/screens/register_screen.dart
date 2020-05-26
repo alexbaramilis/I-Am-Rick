@@ -12,8 +12,6 @@ class RegisterScreen extends StatefulWidget {
 }
 
 class _RegisterScreenState extends State<RegisterScreen> {
-  final _auth = FirebaseAuth.instance;
-
   @override
   Widget build(BuildContext context) {
     return AuthForm(
@@ -30,7 +28,8 @@ class _RegisterScreenState extends State<RegisterScreen> {
           },
         );
         try {
-          final newUser = await _auth.createUserWithEmailAndPassword(
+          final newUser =
+              await FirebaseAuth.instance.createUserWithEmailAndPassword(
             email: email,
             password: password,
           );

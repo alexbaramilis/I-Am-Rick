@@ -43,8 +43,10 @@ class _WelcomeScreenState extends State<WelcomeScreen>
   }
 
   _afterLayout(_) {
-    _walkieHeight =
-        heightOfWidget(_keyParentColumn) - heightOfWidget(_keyChildColumn);
+    setState(() {
+      _walkieHeight =
+          heightOfWidget(_keyParentColumn) - heightOfWidget(_keyChildColumn);
+    });
   }
 
   double heightOfWidget(GlobalKey key) {

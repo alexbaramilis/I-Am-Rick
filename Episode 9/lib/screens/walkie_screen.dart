@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:iamrick/utilities/constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:permission_handler/permission_handler.dart';
 import 'package:iamrick/components/microphone.dart';
 import 'package:iamrick/components/recordings_stream.dart';
 
@@ -13,15 +12,7 @@ class WalkieScreen extends StatefulWidget {
 }
 
 class _WalkieScreenState extends State<WalkieScreen> {
-  final _auth = FirebaseAuth.instance;
-
   bool isRecording = false;
-
-  @override
-  void initState() {
-    super.initState();
-    Permission.microphone.request();
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -32,9 +23,9 @@ class _WalkieScreenState extends State<WalkieScreen> {
         automaticallyImplyLeading: false,
         actions: <Widget>[
           FlatButton(
-            child: Text('Log out', style: kTextStyleLogOutButton),
+            child: Text('Sign out', style: kTextStyleLogOutButton),
             onPressed: () {
-              _auth.signOut();
+              FirebaseAuth.instance.signOut();
               Navigator.pop(context);
             },
           ),
