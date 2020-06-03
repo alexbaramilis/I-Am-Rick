@@ -34,6 +34,10 @@
 
 ![I Am Rick (Episode 8)](screenshots/episode_8.png)
 
+- **Episode 9**: Walkie. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-9-walkie-556d264fcf09) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/tree/master/Episode%209)
+
+![I Am Rick (Episode 9)](screenshots/episode_9.png)
+
 - **Bonus**: Setting up Flutter on macOS Catalina. [[Medium story]](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
 ![Setting up Flutter on macOS Catalina](screenshots/setting_up_flutter.jpg)
