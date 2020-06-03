@@ -13,10 +13,12 @@ class BottomPaddedCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: padding != null
-          ? padding.copyWith(
-              bottom: padding.bottom + MediaQuery.of(context).padding.bottom)
-          : EdgeInsets.only(bottom: MediaQuery.of(context).padding.bottom),
+      padding: padding,
+// If you need to have a bottom safe area, replace the above line with this:
+//      padding: padding != null
+//          ? padding.copyWith(
+//              bottom: padding.bottom + MediaQuery.of(context).padding.bottom)
+//          : EdgeInsets.only(bottom: MediaQuery.of(context).padding.bottom),
       decoration: BoxDecoration(
         color: kColourBackground,
         borderRadius: BorderRadius.only(
