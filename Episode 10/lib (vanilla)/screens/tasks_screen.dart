@@ -72,7 +72,7 @@ class _TasksScreenState extends State<TasksScreen> {
             onTaskTapped: (int index) => setState(
               () => tasks[index].isCompleted = !tasks[index].isCompleted,
             ),
-            onTaskDeleted: (int index) => setState(() => tasks.removeAt(index)),
+            onTaskDragged: (int index) => setState(() => tasks.removeAt(index)),
           ),
         ],
       ),

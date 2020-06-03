@@ -36,12 +36,12 @@ import 'package:iamrick/models/task.dart';
 class TaskList extends StatelessWidget {
   final List<Task> tasks;
   final Function onTaskTapped;
-  final Function onTaskDeleted;
+  final Function onTaskDragged;
 
   TaskList({
     @required this.tasks,
     @required this.onTaskTapped,
-    @required this.onTaskDeleted,
+    @required this.onTaskDragged,
   });
 
   @override
@@ -56,7 +56,7 @@ class TaskList extends StatelessWidget {
               title: tasks[index].name,
               isChecked: tasks[index].isCompleted,
               onItemTapped: () => onTaskTapped(index),
-              onItemDragged: () => onTaskDeleted(index),
+              onItemDragged: () => onTaskDragged(index),
             );
           },
         ),
