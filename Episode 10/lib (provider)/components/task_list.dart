@@ -18,8 +18,10 @@ class TaskList extends StatelessWidget {
             itemCount: data.numberOfTasks(),
             itemBuilder: (context, index) {
               return TaskListItem(
-                title: data.getTask(index).name,
-                isChecked: data.getTask(index).isCompleted,
+                title: data.tasks[index].name,
+                isChecked: data.tasks[index].isCompleted,
+//                title: data.getTask(index).name,
+//                isChecked: data.getTask(index).isCompleted,
                 onItemTapped: () => data.toggleCheck(index),
                 onItemDragged: () => data.deleteTask(index),
               );
