@@ -38,6 +38,10 @@
 
 ![I Am Rick (Episode 9)](screenshots/episode_9.png)
 
+- **Episode 10**: Rick’s To-Do List. [[Medium story]](https://medium.com/@alexandrosbaramilis/i-am-rick-episode-10-finale-ricks-to-do-list-b8aee62368e6) [[Code]](https://github.com/alexbaramilis/I-Am-Rick/tree/master/Episode%2010)
+
+![I Am Rick (Episode 10)](screenshots/episode_10.png)
+
 - **Bonus**: Setting up Flutter on macOS Catalina. [[Medium story]](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
 ![Setting up Flutter on macOS Catalina](screenshots/setting_up_flutter.jpg)
